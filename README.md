@@ -5,20 +5,22 @@ Get your SaaS up and running in no time with this list of free and affordable pl
 
 Want to add one to the list? [Contribute](https://github.com/timb-103/saas-starter-stack/edit/main/README.md#contribute).
 
-#### Code Frameworks
-- [nuxt](https://nuxt.com)
+## Tools
+
+#### Code
+- [Nuxt](https://nuxt.com) - The intuitive Vue framework.
 
 #### Hosting
-- [render](https://render.com)
+- [Render](https://render.com) - Build, deploy, and scale your apps.
 
 #### Subscriptions & Payments
-- [stripe](https://stripe.com)
+- [Stripe](https://stripe.com) - Financial infrastructure for the internet.
 
 #### Live Chat
-- [crisp](https://crisp.im)
+- [Crisp](https://crisp.im) - All-in-one business messaging platform.
 
 #### Link Shortening
-- [dub](https://dub.co)
+- [Dub](https://dub.co) - Open-source link management.
 
 ## Contribute
 
