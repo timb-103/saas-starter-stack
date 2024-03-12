@@ -1,9 +1,7 @@
 # SaaS Starter Stack
 > A curated list of free and affordable tools for building a SaaS.
 
-Get your SaaS up and running in no time with this list of free and affordable platforms.
-
-Want to add one to the list? [Contribute](https://github.com/timb-103/saas-starter-stack/edit/main/README.md#contribute).
+Get your SaaS up and running in no time with this list of free and [affordable](https://github.com/timb-103/saas-starter-stack/edit/main/README.md#affordable) platforms. [Contribute](https://github.com/timb-103/saas-starter-stack/edit/main/README.md#contribute).
 
 ## Tools
 
@@ -25,6 +23,10 @@ Want to add one to the list? [Contribute](https://github.com/timb-103/saas-start
 #### Website Analytics
 
 - [Plausible](https://plausible.io) - Privacy first analytics.
+
+## Affordable
+
+To be "affordable", means that the tool has a plan that's less than $50 per month.
 
 ## Contribute
 
