@@ -1,26 +1,23 @@
 # SaaS Starter Stack
-> A curated list of free and affordable tools for building a SaaS. 
+> A curated list of free and affordable tools for building a SaaS.
 
-Jumpstart your SaaS journey with **free and affordable tools** including: databases, hosting, feedback collection, code frameworks, live chat, emails and more.
+Get your SaaS up and running in no time with this list of free and affordable platforms.
 
-### Code Frameworks
+Want to add one to the list? [Contribute](https://github.com/timb-103/saas-starter-stack/edit/main/README.md#contribute).
 
+#### Code Frameworks
 - [nuxt](https://nuxt.com)
 
-### Hosting
-
+#### Hosting
 - [render](https://render.com)
 
-### Subscriptions & Payments
-
+#### Subscriptions & Payments
 - [stripe](https://stripe.com)
 
-### Live Chat
-
+#### Live Chat
 - [crisp](https://crisp.im)
 
-### Link Shortening
-
+#### Link Shortening
 - [dub](https://dub.co)
 
 ## Contribute
