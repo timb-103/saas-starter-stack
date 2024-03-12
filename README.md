@@ -22,6 +22,10 @@ Want to add one to the list? [Contribute](https://github.com/timb-103/saas-start
 #### Link Shortening
 - [Dub](https://dub.co) - Open-source link management.
 
+#### Website Analytics
+
+- [Plausible](https://plausible.io) - Privacy first analytics.
+
 ## Contribute
 
 Contributions are always welcome!
