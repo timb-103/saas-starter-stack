@@ -25,6 +25,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Authentification and User Management](#authentification-and-user-management-)
 - [CRM](#crm)
 - [Form Builders](#form-builders)
+- [Finance](#finance)
 
 ## Tools
 
@@ -121,6 +122,9 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Form Builders 📝
 - [Youform](https://youform.io) - A free Typeform alternative. Create waitlist forms, surveys, and more.
+
+#### Finance
+- [Finta](https://finta.io?ref=saas-starter-stack) - Sync your balances and transactions to Notion, Google Sheets, Airtable, or Coda to manage your company finances.
 
 ## ✏️ Contribute
 Contributions are always welcome!
