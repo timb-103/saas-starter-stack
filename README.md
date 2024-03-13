@@ -29,9 +29,11 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Nuxt](https://nuxt.com) - The intuitive Vue framework.
 - [Next.js](https://nextjs.org) - The React Framework for the Web
 - [Remix](https://remix.run) - Focused on web standards and modern web app UX
+- [Sveltekit](https://kit.svelte.dev/) - Web development, streamlined.
 
 #### Boilerplate Starter Kits
 - [ShipFast](https://shipfa.st) - NextJS boilerplate with all you need to build your SaaS.
+- [Just Launch It](https://www.justlaunch.it/) - Sveltekit boilerplate to rapidly build and launch your unicorn Saas.
 
 #### Databases 🗄️
 - [MongoDB](https://mongodb.com) - Developer data platform (NoSQL).
