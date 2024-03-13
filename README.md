@@ -108,7 +108,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [BoxyHQ](https://boxyhq.com) - Open source security building blocks for developers. Democratizing enterprise readiness.
 - [Clerk](https://clerk.com) - The most comprehensive User Management Platform
 
-#### CRM
+#### CRM 💰
 - [Wobaka](https://wobaka.com) - Refreshingly simple CRM and email automation
 
 ## ✏️ Contribute
