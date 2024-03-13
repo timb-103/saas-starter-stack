@@ -58,7 +58,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
 - [Buffer](https://buffer.com)- Grow your audience on social and beyond.
 
-#### Link Shortening 🔗 
+#### Link Shortening 🔗
 - [Dub](https://dub.co) - Open-source link management.
 
 #### Media Processing & Content Delivery Networks 🖼️
@@ -95,6 +95,9 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Authentification and User Management 👤
 - [Clerk](https://clerk.com) - The most comprehensive User Management Platform
+
+### Forms 📝
+- [SimplePDF Embed](https://simplePDF.eu/embed) – Embed a PDF editor and filler in your app or website
 
 ## ✏️ Contribute
 Contributions are always welcome!
