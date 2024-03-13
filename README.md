@@ -53,6 +53,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 #### Live Chat 💬
 - [Crisp](https://crisp.im) - All-in-one business messaging platform.
 - [Intercom](https://intercom.com) - AI customer service solution.
+- [JustReply](https://justreply.ai) - Customer support tool for teams using Slack.
 
 #### Social Media Management 🖼️
 - [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
