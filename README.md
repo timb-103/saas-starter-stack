@@ -40,7 +40,9 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Render](https://render.com) - Build, deploy, and scale your apps.
 - [Vercel](https://vercel.com) - Build, scale, and secure a faster, personalized web.
 - [Railway](https://railway.app/) - Instant Deployments, Effortless Scale
-- [Netlify](https://www.netlify.com/) - Connect everything. Build anything.
+- [Netlify](https://netlify.com/) - Connect everything. Build anything.
+- [Zeabur](https://zeabur.com) - Deploy painlessly and scale infinitely.
+
 
 #### Subscriptions & Payments 💳
 - [Stripe](https://stripe.com) - Financial infrastructure for the internet.
@@ -62,6 +64,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Website Analytics 📶
 - [Plausible](https://plausible.io) - Privacy first analytics.
+- [Umami](https://umami.is/) - Empowering insights, Preserving privacy.
 - [Beam Analytics](https://beamanalytics.io/) - The Google Analytics alternative with the most generous free tier
 
 #### Website Monitoring
