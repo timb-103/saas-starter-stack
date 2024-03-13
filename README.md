@@ -78,6 +78,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 #### User Feedback 📢
 - [Canny](https://canny.io) - Capture product feedback.
 - [featureOS](https://featureos.app) - Organize product feedback and analyze with AI.
+- [Supahub][https://supahub.com] - Collect feedback & announce product updates.
 
 #### SMS Notifications
 - [Notilify](https://notilify.com) - Send marketing, transactional, notifications, and other types of SMS.
