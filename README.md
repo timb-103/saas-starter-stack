@@ -18,6 +18,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Website Monitoring](https://github.com/timb-103/saas-starter-stack?tab=readme-ov-file#website-monitoring-)
 - [SMS Notifications](https://github.com/timb-103/saas-starter-stack?tab=readme-ov-file#sms-notifications-)
 - [Push Notifications](https://github.com/timb-103/saas-starter-stack?tab=readme-ov-file#push-notifications-)
+- [Affiliates](https://github.com/timb-103/saas-starter-stack?tab=readme-ov-file#affiliates-)
 
 ## Tools
 
@@ -66,6 +67,9 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Push Notifications 🚀
 - [NotifStation](https://notifstation.com) - Send push notifications.
+
+#### Affiliates
+- [PromoteKit](https://www.promotekit.com/) - Affiliate software for Stripe.
 
 
 ## ✏️ Contribute
