@@ -63,6 +63,9 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Intercom](https://intercom.com) - AI customer service solution.
 - [JustReply](https://justreply.ai) - Customer support tool for teams using Slack.
 
+#### Knowledge Base & Help Center 🛟
+- [HelpKit](https://www.helpkit.so) - Turn Notion into a professional Help Center / Documentation Site.
+
 #### Social Media Management 🖼️
 - [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
 - [Buffer](https://buffer.com)- Grow your audience on social and beyond.
@@ -81,7 +84,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 #### Website Analytics 📶
 - [Plausible](https://plausible.io) - Privacy first analytics.
 - [Fathom Analytics](https://usefathom.com) - Excellent Google Analytics Alternative
-- [Simple Analytics](https://www.simpleanalytics.com) - EU Based complaincy focased.
+- [Simple Analytics](https://www.simpleanalytics.com) - EU Based compliancy focused.
 - [Umami](https://umami.is) - Empowering insights, Preserving privacy.
 - [Beam Analytics](https://beamanalytics.io) - Google Analytics alternative with the most generous free tier
 - [Usermaven](https://usermaven.com) - Free, privacy-friendly website analytics and product insights for SaaS.
