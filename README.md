@@ -33,7 +33,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Sveltekit](https://kit.svelte.dev/) - Web development, streamlined.
 
 #### Boilerplate Starter Kits
-- [BoxyHQ Enterprise SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) - Enterprise ready, open source, and powered by SAML Jackson.
+- [BoxyHQ](https://github.com/boxyhq/saas-starter-kit) - Enterprise ready, open source, and powered by SAML Jackson.
 - [Just Launch It](https://www.justlaunch.it/) - Sveltekit boilerplate to rapidly build and launch your unicorn Saas.
 - [LaraFast](https://larafast.com) - Laravel boilerplate with ready-to-go components for Payments, Admin, Blog, SEO and more.
 - [ShipFast](https://shipfa.st) - NextJS boilerplate with all you need to build your SaaS.
