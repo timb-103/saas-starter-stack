@@ -38,6 +38,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [BoxyHQ](https://github.com/boxyhq/saas-starter-kit) - Enterprise ready, open source, and powered by SAML Jackson.
 - [Just Launch It](https://www.justlaunch.it/) - Sveltekit boilerplate to rapidly build and launch your unicorn Saas.
 - [LaraFast](https://larafast.com) - Laravel boilerplate with ready-to-go components for Payments, Admin, Blog, SEO and more.
+- [LaunchFast](https://www.launchfa.st) - Astro, Next.js, and SvelteKit boilerplates for launching web apps in hours.
 - [Nextless.js](https://nextlessjs.com) - Next.js Boilerplate with Auth, Multi-tenancy & Team, Payment, Admin, Landing Page, etc.
 - [ShipFast](https://shipfa.st) - NextJS boilerplate with all you need to build your SaaS.
 - [Ionstarter](https://ionstarter.dev/) - Ionic starter templates to launch apps in record time.
@@ -45,6 +46,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [React Native Boilerplate](https://reactnativeboilerplate.com) - Mobile SaaS Boilerplate to launch your SaaS on iOS and Android.
 
 #### Databases 🗄️
+- [Appwrite](https://appwrite.io) - Open-source backend-as-a-service platform for databases.
 - [MongoDB](https://mongodb.com) - Developer data platform (NoSQL).
 - [Supabase](https://supabase.com) - Open Source Firebase Alternative
 
@@ -58,6 +60,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 #### Subscriptions & Payments 💳
 - [Stripe](https://stripe.com) - Financial infrastructure for the internet.
 - [Lemon Squeezy](https://lemonsqueezy.com) - Payments, tax & subscriptions.
+- [Paddle](https://www.paddle.com) - The complete payments, tax, and subscriptions solution for SaaS.
 
 #### Live Chat 💬
 - [Crisp](https://crisp.im) - All-in-one business messaging platform.
@@ -110,6 +113,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 #### E-mail Notifications 📧
 - [Resend](https://resend.com) - Email for developers.
 - [Mailgun](https://www.mailgun.com) - Email service providing API, SMTP for transactional emails & marketing campaigns.
+- [Plunk](https://www.useplunk.com) - The Email Platform for SaaS.
 
 #### Event Scheduling 📆
 - [Cal.com](https://cal.com) - Scheduling Infrastructure for Everyone.
@@ -122,6 +126,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Wobaka](https://wobaka.com) - Refreshingly simple CRM and email automation
 
 #### Form Builders 📝
+- [Tally](https://tally.so) - The simplest free online form builder.
 - [Youform](https://youform.io) - A free Typeform alternative. Create waitlist forms, surveys, and more.
 
 ## ✏️ Contribute
