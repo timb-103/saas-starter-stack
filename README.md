@@ -69,8 +69,8 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Blogging ✍️
 - [BlogPro](https://blogpro.so) - Notion to Blog for startups.
-- [Docs to Markdown Pro](https://www.docstomarkdown.pro) - Publish Google Docs as Markdown to GitHub/GitLab, useful for creating content for Jamstack sites.  
-- [Docs to WP Pro](https://www.docstowp.pro) - Publish SEO-optimized WordPress posts from Google Docs.
+- [Docs to Markdown Pro](https://docstomarkdown.pro) - Publish Google Docs as Markdown to GitHub/GitLab.
+- [Docs to WP Pro](https://docstowp.pro) - Publish SEO-optimized WordPress posts from Google Docs.
 
 #### Link Shortening 🔗 
 - [Dub](https://dub.co) - Open-source link management.
