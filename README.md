@@ -17,6 +17,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 #### Hosting 💾
 - [Render](https://render.com) - Build, deploy, and scale your apps.
 - [Vercel](https://vercel.com) - Build, scale, and secure a faster, personalized web.
+- [Zeabur](https://zeabur.com) - Deploy painlessly and scale infinitely.
 
 #### Subscriptions & Payments 💳
 - [Stripe](https://stripe.com) - Financial infrastructure for the internet.
@@ -38,6 +39,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Website Analytics 📶
 - [Plausible](https://plausible.io) - Privacy first analytics.
+- [Umami](https://umami.is/) - Empowering insights, Preserving privacy.
 
 #### User Feedback 📢
 - [Canny](https://canny.io) - Capture product feedback.
