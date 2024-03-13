@@ -104,6 +104,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Affiliates 🤝
 - [PromoteKit](https://promotekit.com) - Affiliate software for Stripe.
+- [Tolt](https://tolt.io) - Affiliate software for SaaS startups that works with Paddle, Stripe and Chargebee.
 
 #### E-mail Notifications 📧
 - [Resend](https://resend.com) - Email for developers.
