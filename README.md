@@ -24,6 +24,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Social Media Management 🖼️
 - [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
+- [Buffer](https://buffer.com)- Grow your audience on social and beyond.
 
 #### Link Shortening 🔗 
 - [Dub](https://dub.co) - Open-source link management.
