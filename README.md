@@ -39,6 +39,9 @@ Get your SaaS up and running in no time with this list of free and affordable to
 #### Website Analytics 📶
 - [Plausible](https://plausible.io) - Privacy first analytics.
 
+#### Website Monitoring
+- [DataDog](https://datadog.com) - See inside any stack, any app, at any scale, anywhere.
+
 #### User Feedback 📢
 - [Canny](https://canny.io) - Capture product feedback.
 
