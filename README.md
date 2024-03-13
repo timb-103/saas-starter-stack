@@ -28,7 +28,11 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### User Feedback 📢
 - [Canny](https://canny.io) - Capture product feedback.
-  
+
+#### SMS
+- [Notilify](https://notilify.com) | A one-stop platform to send marketing, transactional, notifications, and other types of SMS
+
+
 
 ## ✏️ Contribute
 Contributions are always welcome!
