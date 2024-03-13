@@ -12,7 +12,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Live Chat](#live-chat-)
 - [Social Media Management](#social-media-management-)
 - [Link Shortening](link-shortening-)
-- [Media Processing & CDNs](media-processing--content-delivery-networks-%EF%B8%8F)
+- [Media Processing & CDNs](#media-processing--content-delivery-networks-%EF%B8%8F)
 - [Website Analytics](#website-analytics-)
 - [User Feedback](#user-feedback-)
 - [Website Monitoring](#website-monitoring-)
