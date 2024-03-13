@@ -11,6 +11,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Subscriptions & Payments](#subscriptions--payments-)
 - [Knowledge Base & Help Center](#knowledge-base--help-center)
 - [Live Chat](#live-chat-)
+- [Chatbots](#chatbots-)
 - [Social Media Management](#social-media-management-)
 - [Blogging](#blogging-)
 - [Link Shortening](link-shortening-)
@@ -74,6 +75,9 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Intercom](https://intercom.com) - AI customer service solution.
 - [JustReply](https://justreply.ai) - Customer support tool for teams using Slack.
 - [Tawk](https://tawk.to) - Free Live Chat, Ticketing, Knowledge Base & CRM.
+
+#### Chatbots 🤖
+- [Mevo](https://usemevo.com) - No-code chatbot builder with AI and rule-based options.
 
 #### Social Media Management 🖼️
 - [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
