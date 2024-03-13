@@ -1,7 +1,7 @@
 # SaaS Starter Stack
 > A curated list of free and affordable tools for building a SaaS.
 
-Get your SaaS up and running in no time with this list of free and affordable tools. [Contribute](https://github.com/timb-103/saas-starter-stack/edit/main/README.md#contribute).
+Get your SaaS up and running in no time with this list of free and affordable tools. [Contribute](https://github.com/timb-103/saas-starter-stack#contribute).
 
 ## Tools
 
