@@ -61,6 +61,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Link Shortening 🔗 
 - [Dub](https://dub.co) - Open-source link management.
+- [URLR](https://urlr.me/en) - Reliable and GDPR-compliant link shortener.
 
 #### Media Processing & Content Delivery Networks 🖼️
 - [Transloadit](https://transloadit.com) - Receive, transform, or deliver any file.
