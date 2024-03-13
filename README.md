@@ -9,6 +9,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Databases](#databases-)
 - [Hosting](#hosting-)
 - [Subscriptions & Payments](#subscriptions--payments-)
+- [Knowledge Base & Help Center](#knowledge-base--help-center)
 - [Live Chat](#live-chat-)
 - [Social Media Management](#social-media-management-)
 - [Blogging](#blogging-)
@@ -63,6 +64,9 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Lemon Squeezy](https://lemonsqueezy.com) - Payments, tax & subscriptions.
 - [Paddle](https://www.paddle.com) - The complete payments, tax, and subscriptions solution for SaaS.
 
+#### Knowledge Base & Help Center 🛟
+- [HelpKit](https://www.helpkit.so) - Turn Notion into a professional Help Center / Documentation Site.
+
 #### Live Chat 💬
 - [Crisp](https://crisp.im) - All-in-one business messaging platform.
 - [Intercom](https://intercom.com) - AI customer service solution.
@@ -86,7 +90,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 #### Website Analytics 📶
 - [Plausible](https://plausible.io) - Privacy first analytics.
 - [Fathom Analytics](https://usefathom.com) - Excellent Google Analytics Alternative
-- [Simple Analytics](https://www.simpleanalytics.com) - EU Based complaincy focased.
+- [Simple Analytics](https://www.simpleanalytics.com) - EU Based compliancy focused.
 - [Umami](https://umami.is) - Empowering insights, Preserving privacy.
 - [Beam Analytics](https://beamanalytics.io) - Google Analytics alternative with the most generous free tier
 - [Usermaven](https://usermaven.com) - Free, privacy-friendly website analytics and product insights for SaaS.
