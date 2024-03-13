@@ -14,6 +14,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Subscriptions & Payments 💳
 - [Stripe](https://stripe.com) - Financial infrastructure for the internet.
+- [Lemon Squeezy](https://lemonsqueezy.com) - Payments, tax & subscriptions.
 
 #### Live Chat 💬
 - [Crisp](https://crisp.im) - All-in-one business messaging platform.
