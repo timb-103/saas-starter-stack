@@ -8,6 +8,9 @@ Get your SaaS up and running in no time with this list of free and affordable to
 #### Code 👨‍💻
 - [Nuxt](https://nuxt.com) - The intuitive Vue framework.
 
+#### Boilerplate Starter Kits
+- [ShipFast](https://shipfa.st/) - NextJS boilerplate with all you need to build your SaaS.
+
 #### Databases 🗄️
 - [MongoDB](https://mongodb.com) - Developer data platform (NoSQL).
 
