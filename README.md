@@ -46,13 +46,13 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Netlify](https://netlify.com) - Connect everything. Build anything.
 - [Zeabur](https://zeabur.com) - Deploy painlessly and scale infinitely.
 
-
 #### Subscriptions & Payments 💳
 - [Stripe](https://stripe.com) - Financial infrastructure for the internet.
 - [Lemon Squeezy](https://lemonsqueezy.com) - Payments, tax & subscriptions.
 
 #### Live Chat 💬
 - [Crisp](https://crisp.im) - All-in-one business messaging platform.
+- [Intercom](https://intercom.com) - AI customer service solution.
 
 #### Social Media Management 🖼️
 - [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
