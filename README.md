@@ -23,6 +23,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Event Scheduling](#event-scheduling-)
 - [Authentification and User Management](#authentification-and-user-management-)
 - [CRM](#crm)
+- [Form Builders](#form-builders)
 
 ## Tools
 
@@ -108,6 +109,9 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### CRM
 - [Wobaka](https://wobaka.com) - Refreshingly simple CRM and email automation
+
+#### Form Builders 📝
+- [Youform](https://youform.io) - A free Typeform alternative. Create waitlist forms, surveys, and more.
 
 ## ✏️ Contribute
 Contributions are always welcome!
