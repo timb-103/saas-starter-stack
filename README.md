@@ -40,6 +40,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [LaraFast](https://larafast.com) - Laravel boilerplate with ready-to-go components for Payments, Admin, Blog, SEO and more.
 - [Nextless.js](https://nextlessjs.com) - Next.js Boilerplate with Auth, Multi-tenancy & Team, Payment, Admin, Landing Page, etc.
 - [ShipFast](https://shipfa.st) - NextJS boilerplate with all you need to build your SaaS.
+- [Shipped.club](https://shipped.club) - NextJS Startup Boilerplate (+ Chrome Extension) to build your SaaS.
 - [Ionstarter](https://ionstarter.dev/) - Ionic starter templates to launch apps in record time.
 - [RapidLaunch](https://rapidlaunch.it) - Nuxt.js boilerplate designed for creating and deploying SaaS products and web apps in minutes. 
 
