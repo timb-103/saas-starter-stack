@@ -67,6 +67,9 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
 - [Buffer](https://buffer.com)- Grow your audience on social and beyond.
 
+#### Data Visualization
+- [Outerbase](https://outerbase.com) - Query, visualize and explore your data.
+
 #### Blogging ✍️
 - [BlogPro](https://blogpro.so) - Notion to Blog for startups.
 
