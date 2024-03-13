@@ -22,8 +22,6 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Event Scheduling](#event-scheduling-)
 - [Authentification and User Management](#authentification-and-user-management-)
 
-
-
 ## Tools
 
 #### Code 👨‍💻
@@ -79,7 +77,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [NotifStation](https://notifstation.com) - Send push notifications.
 
 #### E-mail Notifications 📧
-- [Resebd](https://resend.com/) - Email for developers.
+- [Resend](https://resend.com/) - Email for developers.
 
 #### Event Scheduling 📆
 - [Cal.com](https://cal.com/) - Scheduling Infrastructure for Everyone.
