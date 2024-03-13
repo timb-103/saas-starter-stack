@@ -4,20 +4,20 @@
 Get your SaaS up and running in no time with this list of free and affordable tools. [Contribute](https://github.com/timb-103/saas-starter-stack?tab=readme-ov-file#%EF%B8%8F-contribute).
 
 ## Table of Contents
-- [Code](https://github.com/timb-103/saas-starter-stack/edit/main/README.md#code-)
-- [Boilerplate Starter Kits](https://github.com/timb-103/saas-starter-stack/edit/main/README.md#boilerplates-starter-kits)
-- [Databases](https://github.com/timb-103/saas-starter-stack/edit/main/README.md#databases-)
-- [Hosting](https://github.com/timb-103/saas-starter-stack/edit/main/README.md#hosting-)
-- [Subscriptions & Payments](https://github.com/timb-103/saas-starter-stack/edit/main/README.md#subscriptions--payments-)
-- [Live Chat](https://github.com/timb-103/saas-starter-stack/edit/main/README.md#live-chat-)
-- [Social Media Management](https://github.com/timb-103/saas-starter-stack/edit/main/README.md#social-media-management-)
-- [Link Shortening](https://github.com/timb-103/saas-starter-stack/edit/main/README.md#link-shortening-)
-- [Media Processing & CDNs](https://github.com/timb-103/saas-starter-stack/edit/main/README.md#media-processing--content-delivery-networks-%EF%B8%8F)
-- [Website Analytics](https://github.com/timb-103/saas-starter-stack/edit/main/README.md#website-analytics-)
-- [User Feedback](https://github.com/timb-103/saas-starter-stack/edit/main/README.md#user-feedback-)
-- [Website Monitoring](https://github.com/timb-103/saas-starter-stack/edit/main/README.md#website-monitoring-)
-- [SMS Notifications](https://github.com/timb-103/saas-starter-stack/edit/main/README.md#sms-notifications-)
-- [Push Notifications](https://github.com/timb-103/saas-starter-stack/edit/main/README.md#push-notifications-)
+- [Code](https://github.com/timb-103/saas-starter-stack/README.md#code-)
+- [Boilerplate Starter Kits](https://github.com/timb-103/saas-starter-stack/README.md#boilerplates-starter-kits)
+- [Databases](https://github.com/timb-103/saas-starter-stack/README.md#databases-)
+- [Hosting](https://github.com/timb-103/saas-starter-stack/README.md#hosting-)
+- [Subscriptions & Payments](https://github.com/timb-103/saas-starter-stack/README.md#subscriptions--payments-)
+- [Live Chat](https://github.com/timb-103/saas-starter-stack/README.md#live-chat-)
+- [Social Media Management](https://github.com/timb-103/saas-starter-stack/README.md#social-media-management-)
+- [Link Shortening](https://github.com/timb-103/saas-starter-stack/README.md#link-shortening-)
+- [Media Processing & CDNs](https://github.com/timb-103/saas-starter-stack/README.md#media-processing--content-delivery-networks-%EF%B8%8F)
+- [Website Analytics](https://github.com/timb-103/saas-starter-stack/README.md#website-analytics-)
+- [User Feedback](https://github.com/timb-103/saas-starter-stack/README.md#user-feedback-)
+- [Website Monitoring](https://github.com/timb-103/saas-starter-stack/README.md#website-monitoring-)
+- [SMS Notifications](https://github.com/timb-103/saas-starter-stack/README.md#sms-notifications-)
+- [Push Notifications](https://github.com/timb-103/saas-starter-stack/README.md#push-notifications-)
 
 ## Tools
 
