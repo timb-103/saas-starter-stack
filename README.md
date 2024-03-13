@@ -106,7 +106,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 #### Authentification and User Management 👤
 - [Clerk](https://clerk.com) - The most comprehensive User Management Platform
 
-#### CRM
+#### CRM 💰
 - [Wobaka](https://wobaka.com) - Refreshingly simple CRM and email automation
 
 ## ✏️ Contribute
