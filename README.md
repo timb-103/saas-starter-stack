@@ -10,6 +10,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Hosting](#hosting-)
 - [Subscriptions & Payments](#subscriptions--payments-)
 - [Live Chat](#live-chat-)
+- [Chatbots](#chatbots-)
 - [Social Media Management](#social-media-management-)
 - [Blogging](#blogging-)
 - [Link Shortening](link-shortening-)
@@ -62,6 +63,9 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Crisp](https://crisp.im) - All-in-one business messaging platform.
 - [Intercom](https://intercom.com) - AI customer service solution.
 - [JustReply](https://justreply.ai) - Customer support tool for teams using Slack.
+
+### Chatbots 🤖
+- [Mevo](https://usemevo.com) - No-code chatbot builder with AI and rule-based options.
 
 #### Social Media Management 🖼️
 - [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
