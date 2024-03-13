@@ -9,6 +9,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Databases](#databases-)
 - [Hosting](#hosting-)
 - [Subscriptions & Payments](#subscriptions--payments-)
+- [Knowledge Base & Help Center](#knowledge-base--help-center)
 - [Live Chat](#live-chat-)
 - [Social Media Management](#social-media-management-)
 - [Blogging](#blogging-)
@@ -58,13 +59,13 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Stripe](https://stripe.com) - Financial infrastructure for the internet.
 - [Lemon Squeezy](https://lemonsqueezy.com) - Payments, tax & subscriptions.
 
+#### Knowledge Base & Help Center 🛟
+- [HelpKit](https://www.helpkit.so) - Turn Notion into a professional Help Center / Documentation Site.
+
 #### Live Chat 💬
 - [Crisp](https://crisp.im) - All-in-one business messaging platform.
 - [Intercom](https://intercom.com) - AI customer service solution.
 - [JustReply](https://justreply.ai) - Customer support tool for teams using Slack.
-
-#### Knowledge Base & Help Center 🛟
-- [HelpKit](https://www.helpkit.so) - Turn Notion into a professional Help Center / Documentation Site.
 
 #### Social Media Management 🖼️
 - [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
