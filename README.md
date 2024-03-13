@@ -44,7 +44,8 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [ShipFast](https://shipfa.st) - NextJS boilerplate with all you need to build your SaaS.
 - [Shipped.club](https://shipped.club) - NextJS Startup Boilerplate (+ Chrome Extension) to build your SaaS.
 - [Ionstarter](https://ionstarter.dev/) - Ionic starter templates to launch apps in record time.
-- [RapidLaunch](https://rapidlaunch.it) - Nuxt.js boilerplate designed for creating and deploying SaaS products and web apps in minutes. 
+- [RapidLaunch](https://rapidlaunch.it) - Nuxt.js boilerplate designed for creating and deploying SaaS products and web apps in minutes.
+- [Supastarter](https://supastarter.dev) - Production-ready and scalable SaaS starter kit for Next.js 14 and Nuxt 3.
 - [React Native Boilerplate](https://reactnativeboilerplate.com) - Mobile SaaS Boilerplate to launch your SaaS on iOS and Android.
 
 #### Databases 🗄️
