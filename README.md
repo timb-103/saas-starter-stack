@@ -10,6 +10,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Hosting 💾
 - [Render](https://render.com) - Build, deploy, and scale your apps.
+- [Vercel](https://vercel.com) - Build, scale, and secure a faster, personalized web.
 
 #### Subscriptions & Payments 💳
 - [Stripe](https://stripe.com) - Financial infrastructure for the internet.
