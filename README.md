@@ -73,7 +73,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Umami](https://umami.is) - Empowering insights, Preserving privacy.
 - [Beam Analytics](https://beamanalytics.io) - Google Analytics alternative with the most generous free tier
 
-#### Website Monitoring
+#### Website Monitoring 🔔
 - [DataDog](https://datadog.com) - See inside any stack, any app, at any scale, anywhere.
 - [OpenStatus](https://www.openstatus.dev/) - The open-source website & API monitoring platform.
 - [Sentry](https://sentry.io/) - Fully integrated, multi-environment performance monitoring & error tracking.
@@ -83,13 +83,13 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [featureOS](https://featureos.app) - Organize product feedback and analyze with AI.
 - [Supahub][https://supahub.com] - Collect feedback & announce product updates.
 
-#### SMS Notifications
+#### SMS Notifications 📱
 - [Notilify](https://notilify.com) - Send marketing, transactional, notifications, and other types of SMS.
 
 #### Push Notifications 🚀
 - [NotifStation](https://notifstation.com) - Send push notifications.
 
-#### Affiliates
+#### Affiliates 🤝
 - [PromoteKit](https://promotekit.com) - Affiliate software for Stripe.
 
 #### E-mail Notifications 📧
