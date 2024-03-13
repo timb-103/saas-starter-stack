@@ -9,6 +9,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Databases](#databases-)
 - [Hosting](#hosting-)
 - [Subscriptions & Payments](#subscriptions--payments-)
+- [Knowledge Base & Help Center](#knowledge-base--help-center)
 - [Live Chat](#live-chat-)
 - [Social Media Management](#social-media-management-)
 - [Blogging](#blogging-)
@@ -38,13 +39,19 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [BoxyHQ](https://github.com/boxyhq/saas-starter-kit) - Enterprise ready, open source, and powered by SAML Jackson.
 - [Just Launch It](https://www.justlaunch.it/) - Sveltekit boilerplate to rapidly build and launch your unicorn Saas.
 - [LaraFast](https://larafast.com) - Laravel boilerplate with ready-to-go components for Payments, Admin, Blog, SEO and more.
+- [LaunchFast](https://www.launchfa.st) - Astro, Next.js, and SvelteKit boilerplates for launching web apps in hours.
 - [Nextless.js](https://nextlessjs.com) - Next.js Boilerplate with Auth, Multi-tenancy & Team, Payment, Admin, Landing Page, etc.
 - [ShipFast](https://shipfa.st) - NextJS boilerplate with all you need to build your SaaS.
+- [Shipped.club](https://shipped.club) - NextJS Startup Boilerplate (+ Chrome Extension) to build your SaaS.
 - [Ionstarter](https://ionstarter.dev/) - Ionic starter templates to launch apps in record time.
-- [RapidLaunch](https://rapidlaunch.it) - Nuxt.js boilerplate designed for creating and deploying SaaS products and web apps in minutes. 
+- [RapidLaunch](https://rapidlaunch.it) - Nuxt.js boilerplate designed for creating and deploying SaaS products and web apps in minutes.
+- [Supastarter](https://supastarter.dev) - Production-ready and scalable SaaS starter kit for Next.js 14 and Nuxt 3.
+- [React Native Boilerplate](https://reactnativeboilerplate.com) - Mobile SaaS Boilerplate to launch your SaaS on iOS and Android.
 
 #### Databases 🗄️
+- [Appwrite](https://appwrite.io) - Open-source backend-as-a-service platform for databases.
 - [MongoDB](https://mongodb.com) - Developer data platform (NoSQL).
+- [Pocketbase](https://pocketbase.io/) - Open Source backend in 1 file.
 - [Supabase](https://supabase.com) - Open Source Firebase Alternative
 
 #### Hosting 💾
@@ -57,11 +64,16 @@ Get your SaaS up and running in no time with this list of free and affordable to
 #### Subscriptions & Payments 💳
 - [Stripe](https://stripe.com) - Financial infrastructure for the internet.
 - [Lemon Squeezy](https://lemonsqueezy.com) - Payments, tax & subscriptions.
+- [Paddle](https://www.paddle.com) - The complete payments, tax, and subscriptions solution for SaaS.
+
+#### Knowledge Base & Help Center 🛟
+- [HelpKit](https://www.helpkit.so) - Turn Notion into a professional Help Center / Documentation Site.
 
 #### Live Chat 💬
 - [Crisp](https://crisp.im) - All-in-one business messaging platform.
 - [Intercom](https://intercom.com) - AI customer service solution.
 - [JustReply](https://justreply.ai) - Customer support tool for teams using Slack.
+- [Tawk](https://tawk.to) - Free Live Chat, Ticketing, Knowledge Base & CRM.
 
 #### Social Media Management 🖼️
 - [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
@@ -69,6 +81,8 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Blogging ✍️
 - [BlogPro](https://blogpro.so) - Notion to Blog for startups.
+- [Docs to Markdown Pro](https://docstomarkdown.pro) - Publish Google Docs as Markdown to GitHub/GitLab.
+- [Docs to WP Pro](https://docstowp.pro) - Publish SEO-optimized WordPress posts from Google Docs.
 
 #### Link Shortening 🔗 
 - [Dub](https://dub.co) - Open-source link management.
@@ -81,7 +95,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 #### Website Analytics 📶
 - [Plausible](https://plausible.io) - Privacy first analytics.
 - [Fathom Analytics](https://usefathom.com) - Excellent Google Analytics Alternative
-- [Simple Analytics](https://www.simpleanalytics.com) - EU Based complaincy focased.
+- [Simple Analytics](https://www.simpleanalytics.com) - EU Based compliancy focused.
 - [Umami](https://umami.is) - Empowering insights, Preserving privacy.
 - [Beam Analytics](https://beamanalytics.io) - Google Analytics alternative with the most generous free tier
 - [Usermaven](https://usermaven.com) - Free, privacy-friendly website analytics and product insights for SaaS.
@@ -98,17 +112,20 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### SMS Notifications 📱
 - [Notilify](https://notilify.com) - Send marketing, transactional, notifications, and other types of SMS.
+- [Twilio](https://www.twilio.com) - Industry leading customer management platform.
 
 #### Push Notifications 🚀
 - [NotifStation](https://notifstation.com) - Send push notifications.
 
 #### Affiliates 🤝
 - [PromoteKit](https://promotekit.com) - Affiliate software for Stripe.
-- [Tolt](https://tolt.io) - Affiliate software for SaaS startups that works with Paddle, Stripe and Chargebee.
+- [Rewardful](https://rewardful.com) - Easily set up affiliate and customer referral programs for Stripe.
+- [Tolt](https://tolt.io) - Affiliate software that works with Paddle, Stripe and Chargebee.
 
 #### E-mail Notifications 📧
 - [Resend](https://resend.com) - Email for developers.
 - [Mailgun](https://www.mailgun.com) - Email service providing API, SMTP for transactional emails & marketing campaigns.
+- [Plunk](https://www.useplunk.com) - The Email Platform for SaaS.
 
 #### Event Scheduling 📆
 - [Cal.com](https://cal.com) - Scheduling Infrastructure for Everyone.
@@ -121,6 +138,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Wobaka](https://wobaka.com) - Refreshingly simple CRM and email automation
 
 #### Form Builders 📝
+- [Tally](https://tally.so) - The simplest free online form builder.
 - [Youform](https://youform.io) - A free Typeform alternative. Create waitlist forms, surveys, and more.
 
 ## ✏️ Contribute
