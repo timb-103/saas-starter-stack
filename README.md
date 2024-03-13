@@ -23,6 +23,9 @@ Get your SaaS up and running in no time with this list of free and affordable to
 #### Website Analytics 📶
 - [Plausible](https://plausible.io) - Privacy first analytics.
 
+#### User Feedback 📢
+- [Canny](https://canny.io) - Capture product feedback.
+
 ## ✏️ Contribute
 Contributions are always welcome!
 Please read the [contribution guidelines](contributing.md) first.
