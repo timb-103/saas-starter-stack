@@ -68,12 +68,15 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Website Analytics 📶
 - [Plausible](https://plausible.io) - Privacy first analytics.
+- [Fathom Analytics](https://usefathom.com) - Excellent Google Analytics Alternative
+- [Simple Analytics](https://www.simpleanalytics.com) - EU Based complaincy focased.
 - [Umami](https://umami.is) - Empowering insights, Preserving privacy.
-- [Beam Analytics](https://beamanalytics.io) - The Google Analytics alternative with the most generous free tier
+- [Beam Analytics](https://beamanalytics.io) - Google Analytics alternative with the most generous free tier
 
 #### Website Monitoring
 - [DataDog](https://datadog.com) - See inside any stack, any app, at any scale, anywhere.
 - [OpenStatus](https://www.openstatus.dev/) - The open-source website & API monitoring platform.
+- [Sentry](https://sentry.io/) - Fully integrated, multi-environment performance monitoring & error tracking.
 
 #### User Feedback 📢
 - [Canny](https://canny.io) - Capture product feedback.
@@ -91,6 +94,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### E-mail Notifications 📧
 - [Resend](https://resend.com) - Email for developers.
+- [Mailgun](https://www.mailgun.com) - Email service providing API, SMTP for transactional emails & marketing campaigns.
 
 #### Event Scheduling 📆
 - [Cal.com](https://cal.com) - Scheduling Infrastructure for Everyone.
