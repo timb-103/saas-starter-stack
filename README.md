@@ -18,6 +18,11 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Website Monitoring](https://github.com/timb-103/saas-starter-stack?tab=readme-ov-file#website-monitoring-)
 - [SMS Notifications](https://github.com/timb-103/saas-starter-stack?tab=readme-ov-file#sms-notifications-)
 - [Push Notifications](https://github.com/timb-103/saas-starter-stack?tab=readme-ov-file#push-notifications-)
+- [E-mail Notifications](#e-mail-notifications-)
+- [Event Scheduling](#event-scheduling-)
+- [Authentification and User Management](#authentification-and-user-management-)
+
+
 
 ## Tools
 
@@ -29,10 +34,12 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Databases 🗄️
 - [MongoDB](https://mongodb.com) - Developer data platform (NoSQL).
+- [Supabase](https://supabase.com/) - Open Source Firebase Alternative
 
 #### Hosting 💾
 - [Render](https://render.com) - Build, deploy, and scale your apps.
 - [Vercel](https://vercel.com) - Build, scale, and secure a faster, personalized web.
+- [Railway](https://railway.app/) - Instant Deployments, Effortless Scale
 
 #### Subscriptions & Payments 💳
 - [Stripe](https://stripe.com) - Financial infrastructure for the internet.
@@ -54,6 +61,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Website Analytics 📶
 - [Plausible](https://plausible.io) - Privacy first analytics.
+- [Beam Analytics](https://beamanalytics.io/) - The Google Analytics alternative with the most generous free tier
 
 #### Website Monitoring
 - [DataDog](https://datadog.com) - See inside any stack, any app, at any scale, anywhere.
@@ -66,6 +74,16 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Push Notifications 🚀
 - [NotifStation](https://notifstation.com) - Send push notifications.
+
+#### E-mail Notifications 📧
+- [Resebd](https://resend.com/) - Email for developers.
+
+#### Event Scheduling 📆
+- [Cal.com](https://cal.com/) - Scheduling Infrastructure for Everyone.
+
+#### Authentification and User Management 👤
+- [Clerk](https://clerk.com/) - The most comprehensive User Management Platform
+
 
 
 ## ✏️ Contribute
