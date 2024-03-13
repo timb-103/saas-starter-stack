@@ -18,6 +18,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Website Monitoring](https://github.com/timb-103/saas-starter-stack?tab=readme-ov-file#website-monitoring-)
 - [SMS Notifications](https://github.com/timb-103/saas-starter-stack?tab=readme-ov-file#sms-notifications-)
 - [Push Notifications](https://github.com/timb-103/saas-starter-stack?tab=readme-ov-file#push-notifications-)
+- [Affiliates](https://github.com/timb-103/saas-starter-stack?tab=readme-ov-file#affiliates-)
 - [E-mail Notifications](#e-mail-notifications-)
 - [Event Scheduling](#event-scheduling-)
 - [Authentification and User Management](#authentification-and-user-management-)
@@ -27,20 +28,20 @@ Get your SaaS up and running in no time with this list of free and affordable to
 #### Code 👨‍💻
 - [Nuxt](https://nuxt.com) - The intuitive Vue framework.
 - [Next.js](https://nextjs.org) - The React Framework for the Web
-- [Remix](https://remix.run/) - Focused on web standards and modern web app UX
+- [Remix](https://remix.run) - Focused on web standards and modern web app UX
 
 #### Boilerplate Starter Kits
-- [ShipFast](https://shipfa.st/) - NextJS boilerplate with all you need to build your SaaS.
+- [ShipFast](https://shipfa.st) - NextJS boilerplate with all you need to build your SaaS.
 
 #### Databases 🗄️
 - [MongoDB](https://mongodb.com) - Developer data platform (NoSQL).
-- [Supabase](https://supabase.com/) - Open Source Firebase Alternative
+- [Supabase](https://supabase.com) - Open Source Firebase Alternative
 
 #### Hosting 💾
 - [Render](https://render.com) - Build, deploy, and scale your apps.
 - [Vercel](https://vercel.com) - Build, scale, and secure a faster, personalized web.
-- [Railway](https://railway.app/) - Instant Deployments, Effortless Scale
-- [Netlify](https://netlify.com/) - Connect everything. Build anything.
+- [Railway](https://railway.app) - Instant Deployments, Effortless Scale
+- [Netlify](https://netlify.com) - Connect everything. Build anything.
 - [Zeabur](https://zeabur.com) - Deploy painlessly and scale infinitely.
 
 
@@ -64,8 +65,8 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Website Analytics 📶
 - [Plausible](https://plausible.io) - Privacy first analytics.
-- [Umami](https://umami.is/) - Empowering insights, Preserving privacy.
-- [Beam Analytics](https://beamanalytics.io/) - The Google Analytics alternative with the most generous free tier
+- [Umami](https://umami.is) - Empowering insights, Preserving privacy.
+- [Beam Analytics](https://beamanalytics.io) - The Google Analytics alternative with the most generous free tier
 
 #### Website Monitoring
 - [DataDog](https://datadog.com) - See inside any stack, any app, at any scale, anywhere.
@@ -79,16 +80,17 @@ Get your SaaS up and running in no time with this list of free and affordable to
 #### Push Notifications 🚀
 - [NotifStation](https://notifstation.com) - Send push notifications.
 
+#### Affiliates
+- [PromoteKit](https://promotekit.com) - Affiliate software for Stripe.
+
 #### E-mail Notifications 📧
-- [Resend](https://resend.com/) - Email for developers.
+- [Resend](https://resend.com) - Email for developers.
 
 #### Event Scheduling 📆
-- [Cal.com](https://cal.com/) - Scheduling Infrastructure for Everyone.
+- [Cal.com](https://cal.com) - Scheduling Infrastructure for Everyone.
 
 #### Authentification and User Management 👤
-- [Clerk](https://clerk.com/) - The most comprehensive User Management Platform
-
-
+- [Clerk](https://clerk.com) - The most comprehensive User Management Platform
 
 ## ✏️ Contribute
 Contributions are always welcome!
