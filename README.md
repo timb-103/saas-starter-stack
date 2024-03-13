@@ -17,6 +17,9 @@ Get your SaaS up and running in no time with this list of free and affordable to
 #### Live Chat 💬
 - [Crisp](https://crisp.im) - All-in-one business messaging platform.
 
+#### Social Media Management 🖼️
+- [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
+
 #### Link Shortening 🔗 
 - [Dub](https://dub.co) - Open-source link management.
 
@@ -25,6 +28,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### User Feedback 📢
 - [Canny](https://canny.io) - Capture product feedback.
+  
 
 ## ✏️ Contribute
 Contributions are always welcome!
