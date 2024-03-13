@@ -120,6 +120,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 #### Affiliates 🤝
 - [PromoteKit](https://promotekit.com) - Affiliate software for Stripe.
 - [Rewardful](https://rewardful.com) - Easily set up affiliate and customer referral programs for Stripe.
+- [Tolt](https://tolt.io) - Affiliate software that works with Paddle, Stripe and Chargebee.
 
 #### E-mail Notifications 📧
 - [Resend](https://resend.com) - Email for developers.
