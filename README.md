@@ -29,8 +29,8 @@ Get your SaaS up and running in no time with this list of free and affordable to
 #### User Feedback 📢
 - [Canny](https://canny.io) - Capture product feedback.
 
-#### Marketing 🚀
-- [NotifStation](https://notifstation.com) - Reach your audience instantly with push notifications.
+#### Push Notifications 🚀
+- [NotifStation](https://notifstation.com) - Send push notifications.
   
 
 ## ✏️ Contribute
