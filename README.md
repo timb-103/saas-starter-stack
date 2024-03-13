@@ -41,6 +41,9 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Plausible](https://plausible.io) - Privacy first analytics.
 - [Umami](https://umami.is/) - Empowering insights, Preserving privacy.
 
+#### Website Monitoring
+- [DataDog](https://datadog.com) - See inside any stack, any app, at any scale, anywhere.
+
 #### User Feedback 📢
 - [Canny](https://canny.io) - Capture product feedback.
 
