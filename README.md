@@ -69,7 +69,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Knowledge Base & Help Center 🛟
 - [HelpKit](https://www.helpkit.so) - Turn Notion into a professional Help Center / Documentation Site.
-- [Bliberoo](https://bliberoo.com) - The Ultimate One-Stop Solution for Help Center / Documentation Needs.
+- [Bliberoo](https://bliberoo.com) - Help center, internal wiki or API documetation.
 
 #### Live Chat 💬
 - [Crisp](https://crisp.im) - All-in-one business messaging platform.
