@@ -62,7 +62,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Crisp](https://crisp.im) - All-in-one business messaging platform.
 - [Intercom](https://intercom.com) - AI customer service solution.
 - [JustReply](https://justreply.ai) - Customer support tool for teams using Slack.
-- [tawk.to](https://tawk.to) - Free Live Chat, Ticketing, Knowledge Base & CRM.
+- [Tawk](https://tawk.to) - Free Live Chat, Ticketing, Knowledge Base & CRM.
 
 #### Social Media Management 🖼️
 - [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
