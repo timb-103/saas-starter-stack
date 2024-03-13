@@ -11,6 +11,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Subscriptions & Payments](#subscriptions--payments-)
 - [Live Chat](#live-chat-)
 - [Social Media Management](#social-media-management-)
+- [Blogging](#blogging-)
 - [Link Shortening](link-shortening-)
 - [Media Processing & CDNs](media-processing--content-delivery-networks-%EF%B8%8F)
 - [Website Analytics](#website-analytics-)
@@ -57,6 +58,9 @@ Get your SaaS up and running in no time with this list of free and affordable to
 #### Social Media Management 🖼️
 - [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
 - [Buffer](https://buffer.com)- Grow your audience on social and beyond.
+
+#### Social Media Management 🖼️
+- [BlogPro](https://blogpro.so) - Notion to Blog for starups.
 
 #### Link Shortening 🔗 
 - [Dub](https://dub.co) - Open-source link management.
