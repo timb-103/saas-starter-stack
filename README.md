@@ -59,8 +59,8 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
 - [Buffer](https://buffer.com)- Grow your audience on social and beyond.
 
-#### Social Media Management 🖼️
-- [BlogPro](https://blogpro.so) - Notion to Blog for starups.
+#### Blogging ✍️
+- [BlogPro](https://blogpro.so) - Notion to Blog for startups.
 
 #### Link Shortening 🔗 
 - [Dub](https://dub.co) - Open-source link management.
