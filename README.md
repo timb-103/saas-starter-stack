@@ -70,6 +70,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Website Monitoring
 - [DataDog](https://datadog.com) - See inside any stack, any app, at any scale, anywhere.
+- [OpenStatus](https://www.openstatus.dev/) - The open-source website & API monitoring platform.
 
 #### User Feedback 📢
 - [Canny](https://canny.io) - Capture product feedback.
