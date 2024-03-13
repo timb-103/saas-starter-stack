@@ -121,6 +121,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Form Builders 📝
 - [Youform](https://youform.io) - A free Typeform alternative. Create waitlist forms, surveys, and more.
+- [FormNX](https://formnx.com/) - A free No-Code Form Builder. Create Feedback Forms, surveys, waitlist forms, Quizzes, Job Application forms & more. Use our gallery of [1000's of pre-made](https://formnx.com/form-templates) templates to get started.
 
 ## ✏️ Contribute
 Contributions are always welcome!
