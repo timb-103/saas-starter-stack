@@ -104,7 +104,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Affiliates 🤝
 - [PromoteKit](https://promotekit.com) - Affiliate software for Stripe.
-- [Rewardful](https://www.rewardful.com/?utm_source=github&utm_medium=saas-starter-stack&utm_campaign=chris) - Easily set up affiliate and customer referral programs for Stripe.
+- [Rewardful](https://rewardful.com) - Easily set up affiliate and customer referral programs for Stripe.
 
 #### E-mail Notifications 📧
 - [Resend](https://resend.com) - Email for developers.
