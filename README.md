@@ -28,6 +28,8 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Code 👨‍💻
 - [Nuxt](https://nuxt.com) - The intuitive Vue framework.
+- [Next.js](https://nextjs.org) - The React Framework for the Web
+- [Remix](https://remix.run/) - Focused on web standards and modern web app UX
 
 #### Boilerplate Starter Kits
 - [ShipFast](https://shipfa.st/) - NextJS boilerplate with all you need to build your SaaS.
@@ -40,6 +42,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Render](https://render.com) - Build, deploy, and scale your apps.
 - [Vercel](https://vercel.com) - Build, scale, and secure a faster, personalized web.
 - [Railway](https://railway.app/) - Instant Deployments, Effortless Scale
+- [Netlify](https://www.netlify.com/) - Connect everything. Build anything.
 
 #### Subscriptions & Payments 💳
 - [Stripe](https://stripe.com) - Financial infrastructure for the internet.
