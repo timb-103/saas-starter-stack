@@ -13,6 +13,7 @@ export default defineNuxtConfig({
   ],
   plausible: {
     domain: 'saasstarterstack.com',
+    autoOutboundTracking: true
   },
   googleFonts: {
     families: { 
