@@ -13,6 +13,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Live Chat](#live-chat)
 - [Chatbots](#chatbots)
 - [Social Media Management](#social-media-management)
+- [Testing](#testing)
 - [Blogging](#blogging)
 - [Link Shortening](#link-shortening)
 - [Media Processing & CDNs](#media-processing-and-content-delivery-networks)
@@ -84,6 +85,9 @@ Get your SaaS up and running in no time with this list of free and affordable to
 #### Social Media Management
 - [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
 - [Buffer](https://buffer.com)- Grow your audience on social and beyond.
+
+#### Testing
+- [Keploy](https://keploy.io) - Generate tests and stubs for your application that actually work.
 
 #### Blogging
 - [BlogPro](https://blogpro.so) - Notion to Blog for startups.
