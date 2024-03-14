@@ -38,17 +38,17 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Boilerplate Starter Kits
 - [BoxyHQ](https://github.com/boxyhq/saas-starter-kit) - Enterprise ready, open source, and powered by SAML Jackson.
+- [DevToDollars](https://devtodollars.com) - Open-source Flutter production boilerplate.
+- [Ionstarter](https://ionstarter.dev/) - Ionic starter templates to launch apps in record time.
 - [Just Launch It](https://www.justlaunch.it/) - Sveltekit boilerplate to rapidly build and launch your unicorn Saas.
 - [LaraFast](https://larafast.com) - Laravel boilerplate with ready-to-go components for Payments, Admin, Blog, SEO and more.
 - [LaunchFast](https://www.launchfa.st) - Astro, Next.js, and SvelteKit boilerplates for launching web apps in hours.
 - [Nextless.js](https://nextlessjs.com) - Next.js Boilerplate with Auth, Multi-tenancy & Team, Payment, Admin, Landing Page, etc.
+- [React Native Boilerplate](https://reactnativeboilerplate.com) - Mobile SaaS Boilerplate to launch your SaaS on iOS and Android.
+- [RapidLaunch](https://rapidlaunch.it) - Nuxt.js boilerplate designed for creating and deploying SaaS products and web apps in minutes.
 - [ShipFast](https://shipfa.st) - NextJS boilerplate with all you need to build your SaaS.
 - [Shipped.club](https://shipped.club) - NextJS Startup Boilerplate (+ Chrome Extension) to build your SaaS.
-- [Ionstarter](https://ionstarter.dev/) - Ionic starter templates to launch apps in record time.
-- [RapidLaunch](https://rapidlaunch.it) - Nuxt.js boilerplate designed for creating and deploying SaaS products and web apps in minutes.
 - [Supastarter](https://supastarter.dev) - Production-ready and scalable SaaS starter kit for Next.js 14 and Nuxt 3.
-- [React Native Boilerplate](https://reactnativeboilerplate.com) - Mobile SaaS Boilerplate to launch your SaaS on iOS and Android.
-- [DevToDollars](https://devtodollars.com) - Open-source Flutter production boilerplate.
 
 #### Databases
 - [Appwrite](https://appwrite.io) - Open-source backend-as-a-service platform for databases.
@@ -57,20 +57,20 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Supabase](https://supabase.com) - Open Source Firebase Alternative
 
 #### Hosting
+- [Netlify](https://netlify.com) - Connect everything. Build anything.
+- [Railway](https://railway.app) - Instant Deployments, Effortless Scale
 - [Render](https://render.com) - Build, deploy, and scale your apps.
 - [Vercel](https://vercel.com) - Build, scale, and secure a faster, personalized web.
-- [Railway](https://railway.app) - Instant Deployments, Effortless Scale
-- [Netlify](https://netlify.com) - Connect everything. Build anything.
 - [Zeabur](https://zeabur.com) - Deploy painlessly and scale infinitely.
 
 #### Subscriptions and Payments
-- [Stripe](https://stripe.com) - Financial infrastructure for the internet.
 - [Lemon Squeezy](https://lemonsqueezy.com) - Payments, tax & subscriptions.
 - [Paddle](https://www.paddle.com) - The complete payments, tax, and subscriptions solution for SaaS.
+- [Stripe](https://stripe.com) - Financial infrastructure for the internet.
 
 #### Knowledge Base and Help Center
-- [HelpKit](https://www.helpkit.so) - Turn Notion into a professional Help Center / Documentation Site.
 - [Bliberoo](https://bliberoo.com) - Help center, internal wiki or API documetation.
+- [HelpKit](https://www.helpkit.so) - Turn Notion into a professional Help Center / Documentation Site.
 
 #### Live Chat
 - [Crisp](https://crisp.im) - All-in-one business messaging platform.
@@ -82,8 +82,8 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Mevo](https://usemevo.com) - No-code chatbot builder with AI and rule-based options.
 
 #### Social Media Management
-- [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
 - [Buffer](https://buffer.com)- Grow your audience on social and beyond.
+- [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
 
 #### Blogging
 - [BlogPro](https://blogpro.so) - Notion to Blog for startups.
@@ -95,15 +95,15 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [URLR](https://urlr.me/en) - Reliable and GDPR-compliant link shortener.
 
 #### Media Processing and Content Delivery Networks
-- [Transloadit](https://transloadit.com) - Receive, transform, or deliver any file.
 - [ImageKit](https://imagekit.io) - Real-time image and video optimizations, transformations.
+- [Transloadit](https://transloadit.com) - Receive, transform, or deliver any file.
 
 #### Website Analytics
-- [Plausible](https://plausible.io) - Privacy first analytics.
+- [Beam Analytics](https://beamanalytics.io) - Google Analytics alternative with the most generous free tier
 - [Fathom Analytics](https://usefathom.com) - Excellent Google Analytics Alternative
+- [Plausible](https://plausible.io) - Privacy first analytics.
 - [Simple Analytics](https://www.simpleanalytics.com) - EU Based compliancy focused.
 - [Umami](https://umami.is) - Empowering insights, Preserving privacy.
-- [Beam Analytics](https://beamanalytics.io) - Google Analytics alternative with the most generous free tier
 - [Usermaven](https://usermaven.com) - Free, privacy-friendly website analytics and product insights for SaaS.
 
 #### Website Monitoring
@@ -129,9 +129,9 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Tolt](https://tolt.io) - Affiliate software that works with Paddle, Stripe and Chargebee.
 
 #### Email Notifications
-- [Resend](https://resend.com) - Email for developers.
 - [Mailgun](https://www.mailgun.com) - Email service providing API, SMTP for transactional emails & marketing campaigns.
 - [Plunk](https://www.useplunk.com) - The Email Platform for SaaS.
+- [Resend](https://resend.com) - Email for developers.
 
 #### Event Scheduling
 - [Cal.com](https://cal.com) - Scheduling Infrastructure for Everyone.
