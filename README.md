@@ -48,6 +48,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [RapidLaunch](https://rapidlaunch.it) - Nuxt.js boilerplate designed for creating and deploying SaaS products and web apps in minutes.
 - [Supastarter](https://supastarter.dev) - Production-ready and scalable SaaS starter kit for Next.js 14 and Nuxt 3.
 - [React Native Boilerplate](https://reactnativeboilerplate.com) - Mobile SaaS Boilerplate to launch your SaaS on iOS and Android.
+- [DevToDollars](https://devtodollars.com) - Open-source Flutter production boilerplate.
 
 #### Databases
 - [Appwrite](https://appwrite.io) - Open-source backend-as-a-service platform for databases.
