@@ -44,6 +44,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [LaraFast](https://larafast.com) - Laravel boilerplate with ready-to-go components for Payments, Admin, Blog, SEO and more.
 - [LaunchFast](https://www.launchfa.st) - Astro, Next.js, and SvelteKit boilerplates for launching web apps in hours.
 - [Nextless.js](https://nextlessjs.com) - Next.js Boilerplate with Auth, Multi-tenancy & Team, Payment, Admin, Landing Page, etc.
+- [Outseta](https://www.outseta.com/) - A tech stack agnostic boilerplate that integrates via Javascript embeds for sign up, login, and a self-serve customer portal.
 - [React Native Boilerplate](https://reactnativeboilerplate.com) - Mobile SaaS Boilerplate to launch your SaaS on iOS and Android.
 - [RapidLaunch](https://rapidlaunch.it) - Nuxt.js boilerplate designed for creating and deploying SaaS products and web apps in minutes.
 - [ShipFast](https://shipfa.st) - NextJS boilerplate with all you need to build your SaaS.
@@ -65,12 +66,14 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Subscriptions and Payments
 - [Lemon Squeezy](https://lemonsqueezy.com) - Payments, tax & subscriptions.
+- [Outseta](https://www.outseta.com/) - The all-in-one payments platform for SaaS companies building on Stripe.
 - [Paddle](https://www.paddle.com) - The complete payments, tax, and subscriptions solution for SaaS.
 - [Stripe](https://stripe.com) - Financial infrastructure for the internet.
 
 #### Knowledge Base and Help Center
 - [Bliberoo](https://bliberoo.com) - Help center, internal wiki or API documetation.
 - [HelpKit](https://www.helpkit.so) - Turn Notion into a professional Help Center / Documentation Site.
+- [Outseta](https://www.outseta.com/) - Support tickets, knowledge base, and live chat tools for SaaS start-ups.
 
 #### Live Chat
 - [Crisp](https://crisp.im) - All-in-one business messaging platform.
@@ -130,6 +133,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 #### Email Notifications
 - [Mailgun](https://www.mailgun.com) - Email service providing API, SMTP for transactional emails & marketing campaigns.
+  - [Outseta](https://www.outseta.com/) - One platform to send your product, marketing, and transactional emails.
 - [Plunk](https://www.useplunk.com) - The Email Platform for SaaS.
 - [Resend](https://resend.com) - Email for developers.
 
@@ -139,9 +143,11 @@ Get your SaaS up and running in no time with this list of free and affordable to
 #### Authentification and User Management
 - [BoxyHQ](https://boxyhq.com) - Open source security building blocks for developers. Democratizing enterprise readiness.
 - [Clerk](https://clerk.com) - The most comprehensive User Management Platform
+- [Outseta](https://www.outseta.com/) - Authentication and multi-tenant user management seamlessly integrated with payments and subscriptions.
 
 #### CRM
-- [Wobaka](https://wobaka.com) - Refreshingly simple CRM and email automation
+- [Outseta](https://www.outseta.com/) - All-in-one CRM, payments, authentication, email, and help desk for SaaS start-ups.
+- [Wobaka](https://wobaka.com) - Refreshingly simple CRM and email automation 
 
 #### Form Builders
 - [Tally](https://tally.so) - The simplest free online form builder.
