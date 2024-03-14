@@ -99,6 +99,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [ImageKit](https://imagekit.io) - Real-time image and video optimizations, transformations.
 
 #### Website Analytics
+- [Penkle Analytics](https://penkle.com) - EU Based privacy focused analytics.
 - [Plausible](https://plausible.io) - Privacy first analytics.
 - [Fathom Analytics](https://usefathom.com) - Excellent Google Analytics Alternative
 - [Simple Analytics](https://www.simpleanalytics.com) - EU Based compliancy focused.
