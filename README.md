@@ -152,6 +152,7 @@ This guide is aimed at guiding you through the whole journey of building your ow
 - [Wobaka](https://wobaka.com) - Refreshingly simple CRM and email automation
 
 #### Form Builders
+- [FormApe](https://www.formape.com) - Build forms easily in seconds.
 - [Tally](https://tally.so) - The simplest free online form builder.
 - [Youform](https://youform.io) - A free Typeform alternative. Create waitlist forms, surveys, and more.
 
