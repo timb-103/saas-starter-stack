@@ -8,21 +8,21 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Boilerplate Starter Kits](#boilerplate-starter-kits)
 - [Databases](#databases)
 - [Hosting](#hosting)
-- [Subscriptions & Payments](#subscriptions--payments)
-- [Knowledge Base & Help Center](#knowledge-base--help-center)
+- [Subscriptions & Payments](#subscriptions-and-payments)
+- [Knowledge Base & Help Center](#knowledge-base-and-help-center)
 - [Live Chat](#live-chat)
 - [Chatbots](#chatbots)
 - [Social Media Management](#social-media-management)
 - [Blogging](#blogging)
 - [Link Shortening](#link-shortening)
-- [Media Processing & CDNs](#media-processing--content-delivery-networks)
+- [Media Processing & CDNs](#media-processing-and-content-delivery-networks)
 - [Website Analytics](#website-analytics)
 - [User Feedback](#user-feedback)
 - [Website Monitoring](#website-monitoring)
 - [SMS Notifications](#sms-notifications)
 - [Push Notifications](#push-notifications)
 - [Affiliates](#affiliates)
-- [E-mail Notifications](#e-mail-notifications)
+- [E-mail Notifications](#email-notifications)
 - [Event Scheduling](#event-scheduling)
 - [Authentification and User Management](#authentification-and-user-management)
 - [CRM](#crm)
@@ -62,12 +62,12 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Netlify](https://netlify.com) - Connect everything. Build anything.
 - [Zeabur](https://zeabur.com) - Deploy painlessly and scale infinitely.
 
-#### Subscriptions & Payments
+#### Subscriptions and Payments
 - [Stripe](https://stripe.com) - Financial infrastructure for the internet.
 - [Lemon Squeezy](https://lemonsqueezy.com) - Payments, tax & subscriptions.
 - [Paddle](https://www.paddle.com) - The complete payments, tax, and subscriptions solution for SaaS.
 
-#### Knowledge Base & Help Center
+#### Knowledge Base and Help Center
 - [HelpKit](https://www.helpkit.so) - Turn Notion into a professional Help Center / Documentation Site.
 - [Bliberoo](https://bliberoo.com) - Help center, internal wiki or API documetation.
 
@@ -93,7 +93,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Dub](https://dub.co) - Open-source link management.
 - [URLR](https://urlr.me/en) - Reliable and GDPR-compliant link shortener.
 
-#### Media Processing & Content Delivery Networks
+#### Media Processing and Content Delivery Networks
 - [Transloadit](https://transloadit.com) - Receive, transform, or deliver any file.
 - [ImageKit](https://imagekit.io) - Real-time image and video optimizations, transformations.
 
@@ -127,7 +127,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Rewardful](https://rewardful.com) - Easily set up affiliate and customer referral programs for Stripe.
 - [Tolt](https://tolt.io) - Affiliate software that works with Paddle, Stripe and Chargebee.
 
-#### E-mail Notifications
+#### Email Notifications
 - [Resend](https://resend.com) - Email for developers.
 - [Mailgun](https://www.mailgun.com) - Email service providing API, SMTP for transactional emails & marketing campaigns.
 - [Plunk](https://www.useplunk.com) - The Email Platform for SaaS.
