@@ -14,7 +14,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Chatbots](#chatbots)
 - [Social Media Management](#social-media-management)
 - [Blogging](#blogging)
-- [Link Shortening](link-shortening)
+- [Link Shortening](#link-shortening)
 - [Media Processing & CDNs](#media-processing--content-delivery-networks)
 - [Website Analytics](#website-analytics)
 - [User Feedback](#user-feedback)
