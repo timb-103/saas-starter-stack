@@ -49,6 +49,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Supastarter](https://supastarter.dev) - Production-ready and scalable SaaS starter kit for Next.js 14 and Nuxt 3.
 - [React Native Boilerplate](https://reactnativeboilerplate.com) - Mobile SaaS Boilerplate to launch your SaaS on iOS and Android.
 - [DevToDollars](https://devtodollars.com) - Open-source Flutter production boilerplate.
+- [Supaboost](https://www.supaboost.dev) - The All-in-One Supabase and NextJS SaaS Starter Kit.
 
 #### Databases
 - [Appwrite](https://appwrite.io) - Open-source backend-as-a-service platform for databases.
