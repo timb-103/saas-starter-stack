@@ -1,6 +1,7 @@
 <template>
   <div class="px-4 py-10 m-auto bg-white sm:px-8 dark:bg-gray-800">
     <main class="max-w-none prose dark:prose-invert prose-pre:bg-gray-100 dark:prose-pre:bg-gray-900 hover:prose-a:text-primary-400 prose-a:font-medium prose-a:no-underline prose-a:border-dashed prose-a:border-b hover:prose-a:border-solid hover:prose-a:border-primary-400">
+      <iframe src="https://ghbtns.com/github-btn.html?user=timb-103&repo=saas-starter-stack&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub" class="mb-4"></iframe>
       <slot />
     </main>
   </div>
