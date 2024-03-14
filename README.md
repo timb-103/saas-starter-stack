@@ -44,18 +44,18 @@ This guide is aimed at guiding you through the whole journey of building your ow
 
 #### Boilerplate Starter Kits
 - [BoxyHQ](https://github.com/boxyhq/saas-starter-kit) - Enterprise ready, open source, and powered by SAML Jackson.
-- [Just Launch It](https://www.justlaunch.it/) - Sveltekit boilerplate to rapidly build and launch your unicorn Saas.
-- [LaraFast](https://larafast.com) - Laravel boilerplate with ready-to-go components for Payments, Admin, Blog, SEO and more.
-- [LaunchFast](https://www.launchfa.st) - Astro, Next.js, and SvelteKit boilerplates for launching web apps in hours.
-- [Nextless.js](https://nextlessjs.com) - Next.js Boilerplate with Auth, Multi-tenancy & Team, Payment, Admin, Landing Page, etc.
+- [Just Launch It](https://www.justlaunch.it/) - Sveltekit boilerplate.
+- [LaraFast](https://larafast.com) - Laravel boilerplate with ready-to-go components.
+- [LaunchFast](https://www.launchfa.st) - Astro, Next.js, and SvelteKit boilerplates for.
+- [Nextless.js](https://nextlessjs.com) - Next.js Boilerplate with Auth, Multi-tenancy & Team, etc.
 - [SaaS Pegasus](https://www.saaspegasus.com/) - The premier SaaS boilerplate for Python and Django.
-- [ShipFast](https://shipfa.st) - NextJS boilerplate with all you need to build your SaaS.
-- [Shipped.club](https://shipped.club) - NextJS Startup Boilerplate (+ Chrome Extension) to build your SaaS.
-- [Ionstarter](https://ionstarter.dev/) - Ionic starter templates to launch apps in record time.
-- [RapidLaunch](https://rapidlaunch.it) - Nuxt.js boilerplate designed for creating and deploying SaaS products and web apps in minutes.
-- [Supastarter](https://supastarter.dev) - Production-ready and scalable SaaS starter kit for Next.js 14 and Nuxt 3.
-- [React Native Boilerplate](https://reactnativeboilerplate.com) - Mobile SaaS Boilerplate to launch your SaaS on iOS and Android.
-- [DevToDollars](https://devtodollars.com) - Open-source Flutter production boilerplate.
+- [ShipFast](https://shipfa.st) - NextJS boilerplate.
+- [Shipped.club](https://shipped.club) - NextJS Startup Boilerplate with Chrome Extension.
+- [Ionstarter](https://ionstarter.dev/) - Ionic starter templates to launch apps.
+- [RapidLaunch](https://rapidlaunch.it) - Nuxt.js boilerplate.
+- [Supastarter](https://supastarter.dev) - Production-ready SaaS starter kit for Next.js 14 and Nuxt 3.
+- [React Native Boilerplate](https://reactnativeboilerplate.com) - Mobile SaaS Boilerplate to launch on iOS and Android.
+- [DevToDollars](https://devtodollars.com) - Open-source Flutter boilerplate.
 
 #### Databases
 - [Appwrite](https://appwrite.io) - Open-source backend-as-a-service platform for databases.
@@ -73,10 +73,10 @@ This guide is aimed at guiding you through the whole journey of building your ow
 #### Subscriptions and Payments
 - [Stripe](https://stripe.com) - Financial infrastructure for the internet.
 - [Lemon Squeezy](https://lemonsqueezy.com) - Payments, tax & subscriptions.
-- [Paddle](https://www.paddle.com) - The complete payments, tax, and subscriptions solution for SaaS.
+- [Paddle](https://www.paddle.com) - The complete payments, tax, and subscriptions solution.
 
 #### Knowledge Base and Help Center
-- [HelpKit](https://www.helpkit.so) - Turn Notion into a professional Help Center / Documentation Site.
+- [HelpKit](https://www.helpkit.so) - Turn Notion into a Help Center / Documentation Site.
 - [Bliberoo](https://bliberoo.com) - Help center, internal wiki or API documetation.
 
 #### Live Chat
@@ -86,7 +86,7 @@ This guide is aimed at guiding you through the whole journey of building your ow
 - [Tawk](https://tawk.to) - Free Live Chat, Ticketing, Knowledge Base & CRM.
 
 #### Chatbots
-- [Mevo](https://usemevo.com) - No-code chatbot builder with AI and rule-based options.
+- [Mevo](https://usemevo.com) - Chatbot builder with AI and rule-based options.
 
 #### Social Media Management
 - [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
@@ -106,13 +106,13 @@ This guide is aimed at guiding you through the whole journey of building your ow
 - [ImageKit](https://imagekit.io) - Real-time image and video optimizations, transformations.
 
 #### Website Analytics
-- [Beam](https://beamanalytics.io) - Google Analytics alternative with the most generous free tier.
+- [Beam](https://beamanalytics.io) - Google Analytics alternative.
 - [Fathom](https://usefathom.com) - Excellent Google Analytics Alternative
 - [Penkle](https://penkle.com) - EU Based privacy focused analytics.
 - [Plausible](https://plausible.io) - Privacy first analytics.
 - [Simple](https://www.simpleanalytics.com) - EU Based compliancy focused.
 - [Umami](https://umami.is) - Empowering insights, Preserving privacy.
-- [Usermaven](https://usermaven.com) - Free, privacy-friendly website analytics and product insights for SaaS.
+- [Usermaven](https://usermaven.com) - Free, privacy-friendly website analytics and product insights.
 
 #### Website Monitoring
 - [DataDog](https://datadog.com) - See inside any stack, any app, at any scale, anywhere.
@@ -125,7 +125,7 @@ This guide is aimed at guiding you through the whole journey of building your ow
 - [Supahub](https://supahub.com) - Collect feedback & announce product updates.
 
 #### SMS Notifications
-- [Notilify](https://notilify.com) - Send marketing, transactional, notifications, and other types of SMS.
+- [Notilify](https://notilify.com) - Send marketing, transactional, notifications, and more.
 - [Twilio](https://www.twilio.com) - Industry leading customer management platform.
 
 #### Push Notifications
@@ -133,19 +133,19 @@ This guide is aimed at guiding you through the whole journey of building your ow
 
 #### Affiliates
 - [PromoteKit](https://promotekit.com) - Affiliate software for Stripe.
-- [Rewardful](https://rewardful.com) - Easily set up affiliate and customer referral programs for Stripe.
-- [Tolt](https://tolt.io) - Affiliate software that works with Paddle, Stripe and Chargebee.
+- [Rewardful](https://rewardful.com) - Set up affiliate and customer referral programs for Stripe.
+- [Tolt](https://tolt.io) - Affiliate software for Paddle, Stripe and Chargebee.
 
 #### Email Notifications
 - [Resend](https://resend.com) - Email for developers.
-- [Mailgun](https://www.mailgun.com) - Email service providing API, SMTP for transactional emails & marketing campaigns.
+- [Mailgun](https://www.mailgun.com) - Email service providing API, SMTP.
 - [Plunk](https://www.useplunk.com) - The Email Platform for SaaS.
 
 #### Event Scheduling
 - [Cal.com](https://cal.com) - Scheduling Infrastructure for Everyone.
 
 #### Authentification and User Management
-- [BoxyHQ](https://boxyhq.com) - Open source security building blocks for developers. Democratizing enterprise readiness.
+- [BoxyHQ](https://boxyhq.com) - Open source security building blocks for developers.
 - [Clerk](https://clerk.com) - The most comprehensive User Management Platform
 
 #### CRM
@@ -153,7 +153,7 @@ This guide is aimed at guiding you through the whole journey of building your ow
 
 #### Form Builders
 - [Tally](https://tally.so) - The simplest free online form builder.
-- [Youform](https://youform.io) - A free Typeform alternative. Create waitlist forms, surveys, and more.
+- [Youform](https://youform.io) - Create waitlist forms, surveys and more for free.
 
 ## Contribute
 Contributions are always welcome!
