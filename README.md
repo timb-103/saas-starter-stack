@@ -1,11 +1,11 @@
 # SaaS Starter Stack
 > A curated list of free and affordable tools for building a SaaS.
 
-Get your SaaS up and running in no time with this list of free and affordable tools. [Contribute](https://github.com/timb-103/saas-starter-stack?tab=readme-ov-file#%EF%B8%8F-contribute).
+Get your SaaS up and running in no time with this list of free and affordable tools. [Contribute](#contribute).
 
 ## Table of Contents
 - [Code](#code)
-- [Boilerplate Starter Kits](#boilerplates-starter-kits)
+- [Boilerplate Starter Kits](#boilerplate-starter-kits)
 - [Databases](#databases)
 - [Hosting](#hosting)
 - [Subscriptions & Payments](#subscriptions--payments)
