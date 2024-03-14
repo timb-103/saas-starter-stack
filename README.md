@@ -90,6 +90,9 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Docs to Markdown Pro](https://docstomarkdown.pro) - Publish Google Docs as Markdown to GitHub/GitLab.
 - [Docs to WP Pro](https://docstowp.pro) - Publish SEO-optimized WordPress posts from Google Docs.
 
+### SEO
+- [INDEXED.pro](https://indexed.pro) - Fast + Auto URL Indexing Tool for Google and search engines.
+
 #### Link Shortening
 - [Dub](https://dub.co) - Open-source link management.
 - [URLR](https://urlr.me/en) - Reliable and GDPR-compliant link shortener.
@@ -124,6 +127,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [NotifStation](https://notifstation.com) - Send push notifications.
 
 #### Affiliates
+- [FirstPromoter](https://firstpromoter.com) - Everything you need to run your own affiliate program.
 - [PromoteKit](https://promotekit.com) - Affiliate software for Stripe.
 - [Rewardful](https://rewardful.com) - Easily set up affiliate and customer referral programs for Stripe.
 - [Tolt](https://tolt.io) - Affiliate software that works with Paddle, Stripe and Chargebee.
