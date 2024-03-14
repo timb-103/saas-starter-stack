@@ -146,7 +146,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 #### Form Builders
 - [Tally](https://tally.so) - The simplest free online form builder.
 - [Youform](https://youform.io) - A free Typeform alternative. Create waitlist forms, surveys, and more.
-- [FormNX](https://formnx.com/) - A free No-Code Form Builder. Create Feedback Forms, surveys, waitlist forms, Quizzes, Job Application forms & more. Use our gallery of [1000's of pre-made](https://formnx.com/form-templates) templates to get started.
+- [FormNX](https://formnx.com/) - Your "All-in-one" form building solution. Free Typeform / Jotform alternative.
 
 ## Contribute
 Contributions are always welcome!
