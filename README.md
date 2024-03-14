@@ -4,32 +4,37 @@
 Get your SaaS up and running in no time with this list of free and affordable tools. [Contribute](#contribute).
 
 ## Table of Contents
-- [Code](#code)
-- [Boilerplate Starter Kits](#boilerplate-starter-kits)
-- [Databases](#databases)
-- [Hosting](#hosting)
-- [Subscriptions & Payments](#subscriptions-and-payments)
-- [Knowledge Base & Help Center](#knowledge-base-and-help-center)
-- [Live Chat](#live-chat)
-- [Chatbots](#chatbots)
-- [Social Media Management](#social-media-management)
-- [Blogging](#blogging)
-- [Link Shortening](#link-shortening)
-- [Media Processing & CDNs](#media-processing-and-content-delivery-networks)
-- [Website Analytics](#website-analytics)
-- [User Feedback](#user-feedback)
-- [Website Monitoring](#website-monitoring)
-- [SMS Notifications](#sms-notifications)
-- [Push Notifications](#push-notifications)
-- [Affiliates](#affiliates)
-- [E-mail Notifications](#email-notifications)
-- [Event Scheduling](#event-scheduling)
-- [Authentification and User Management](#authentification-and-user-management)
-- [CRM](#crm)
-- [Form Builders](#form-builders)
+- [Guide](#guide)
+- [Tools](#tools)
+    - [Code](#code)
+    - [Boilerplate Starter Kits](#boilerplate-starter-kits)
+    - [Databases](#databases)
+    - [Hosting](#hosting)
+    - [Subscriptions & Payments](#subscriptions-and-payments)
+    - [Knowledge Base & Help Center](#knowledge-base-and-help-center)
+    - [Live Chat](#live-chat)
+    - [Chatbots](#chatbots)
+    - [Social Media Management](#social-media-management)
+    - [Blogging](#blogging)
+    - [Link Shortening](#link-shortening)
+    - [Media Processing & CDNs](#media-processing-and-content-delivery-networks)
+    - [Website Analytics](#website-analytics)
+    - [User Feedback](#user-feedback)
+    - [Website Monitoring](#website-monitoring)
+    - [SMS Notifications](#sms-notifications)
+    - [Push Notifications](#push-notifications)
+    - [Affiliates](#affiliates)
+    - [E-mail Notifications](#email-notifications)
+    - [Event Scheduling](#event-scheduling)
+    - [Authentification and User Management](#authentification-and-user-management)
+    - [CRM](#crm)
+    - [Form Builders](#form-builders)
+
+## Guide
+This guide is aimed at guiding you through the whole journey of building your own startup based on my learnings of growing my own startup Pallyy.
+- [Intro](0.guide-intro.md) - Backstory and what you'll learn.
 
 ## Tools
-
 #### Code
 - [Astro](https://astro.build) - The web framework for content-driven websites.
 - [Nuxt](https://nuxt.com) - The intuitive Vue framework.
