@@ -8,8 +8,12 @@ export default defineNuxtConfig({
   modules: [
     '@nuxt/content', 
     '@nuxtjs/tailwindcss',
-    '@nuxtjs/google-fonts'
+    '@nuxtjs/google-fonts',
+    '@nuxtjs/plausible'
   ],
+  plausible: {
+    domain: 'saasstarterstack.com',
+  },
   googleFonts: {
     families: { 
       Inter: [300, 400, 500, 600, 700, 800, 900] 
