@@ -105,6 +105,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Umami](https://umami.is) - Empowering insights, Preserving privacy.
 - [Beam Analytics](https://beamanalytics.io) - Google Analytics alternative with the most generous free tier
 - [Usermaven](https://usermaven.com) - Free, privacy-friendly website analytics and product insights for SaaS.
+- [UXWizz](https://uxwizz.com) - Self-hosted website analytics with heatmaps and session recordings.
 
 #### Website Monitoring
 - [DataDog](https://datadog.com) - See inside any stack, any app, at any scale, anywhere.
