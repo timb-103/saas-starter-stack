@@ -39,6 +39,7 @@ This guide is aimed at guiding you through the whole journey of building your ow
 ## Interviews
 Learn even more from reading interviews from SaaS founders with at least $500 MRR. Coming soon. To submit an interview, read the [guidelines](interviews/guidelines).
 - [Talknotes](interviews/talknotes) - AI note taking app by Nico Jeannen doing $3.5K MRR.
+- [Gliglish](interviews/gliglish) - Learn languages with AI by Fabien Snauwaert doing $8K MRR.
 
 ## Tools
 ### Code
