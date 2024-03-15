@@ -29,6 +29,9 @@ For search ads, I think the biggest challenge is finding keywords with good popu
 ## 9. Whats the top 5 tools you use to run your startup?
 - RevenueCat, for subscription management within the app.
 - Segment and Mixpanel, for validating new features and understand user behavior
+- Xcode for coding + testing the app
+- RealmDB for making it easy to work with data on device
+- Cloudkit for syncing the data across devices
 
 ## 10. What would you do differently if starting over?
 I would make the app free with subscriptions from the start. I moved to a subscription based model 7-8 months ago and have seen a massive growth. From doing $400-$500 monthly revenue, to now touching $3000 every month.
