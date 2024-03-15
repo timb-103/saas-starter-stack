@@ -6,20 +6,14 @@ export default defineNuxtConfig({
     enabled: false 
   },
   modules: [
-    '@nuxt/content', 
+    '@nuxt/content',
     '@nuxtjs/tailwindcss',
-    '@nuxtjs/google-fonts',
-    '@nuxtjs/plausible'
+    '@nuxtjs/plausible',
+    "@nuxt/fonts"
   ],
   plausible: {
     domain: 'saasstarterstack.com',
     autoOutboundTracking: true
-  },
-  googleFonts: {
-    families: { 
-      Inter: [300, 400, 500, 600, 700, 800, 900] 
-    },
-    display: 'swap'
   },
   content: {
     sources: {
@@ -29,5 +23,21 @@ export default defineNuxtConfig({
         base: path.resolve(__dirname, '../')
       }
     }
+  },
+  app: {
+    head: {
+      charset: 'utf-8',
+      viewport: 'width=device-width, initial-scale=1',
+      htmlAttrs: {
+        lang: 'en'
+      },
+      meta: [
+        { 
+          name: 'description', 
+          content: 'A curated list of free and affordable tools for building a SaaS.'
+        },
+      ]
+    },
+    
   }
 })
