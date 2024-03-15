@@ -71,10 +71,11 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Supabase](https://supabase.com) - Open Source Firebase Alternative
 
 ### Hosting
+- [Cloupsy](https://cloupsy.com) - Deploy web-specific sites in WordPress.
+- [Netlify](https://netlify.com) - Connect everything. Build anything.
+- [Railway](https://railway.app) - Instant Deployments, Effortless Scale.
 - [Render](https://render.com) - Build, deploy, and scale your apps.
 - [Vercel](https://vercel.com) - Build, scale, and secure a faster, personalized web.
-- [Railway](https://railway.app) - Instant Deployments, Effortless Scale
-- [Netlify](https://netlify.com) - Connect everything. Build anything.
 - [Zeabur](https://zeabur.com) - Deploy painlessly and scale infinitely.
 
 ### Subscriptions and Payments
@@ -115,10 +116,12 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 ### Website Analytics
 - [Beam](https://beamanalytics.io) - Google Analytics alternative.
 - [Fathom](https://usefathom.com) - Excellent Google Analytics Alternative
+- [Overtracking Analytics](https://overtracking.com) - An Indie Analytics Tool. Privacy-friendly.
+The Easiest and Powerful Alternative to Google Analytics.
 - [Penkle](https://penkle.com) - EU Based privacy focused analytics.
 - [Pirsch](https://pirsch.io) - Cookie-free and Privacy-friendly Web Analytics.
 - [Plausible](https://plausible.io) - Privacy first analytics.
-- [Simple](https://www.simpleanalytics.com) - EU Based compliancy focused.
+- [Simple Analytics](https://www.simpleanalytics.com) - EU Based compliancy focused.
 - [Umami](https://umami.is) - Empowering insights, Preserving privacy.
 - [Usermaven](https://usermaven.com) - Free, privacy-friendly website analytics and product insights.
 
