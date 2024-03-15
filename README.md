@@ -115,11 +115,13 @@ This guide is aimed at guiding you through the whole journey of building your ow
 - [Simple](https://www.simpleanalytics.com) - EU Based compliancy focused.
 - [Umami](https://umami.is) - Empowering insights, Preserving privacy.
 - [Usermaven](https://usermaven.com) - Free, privacy-friendly website analytics and product insights.
+- [PostHog](https://posthog.com/) - Open source platform to analyze, test, observe, and deploy new features.
 
 ### Website Monitoring
 - [DataDog](https://datadog.com) - See inside any stack, any app, at any scale, anywhere.
 - [OpenStatus](https://www.openstatus.dev/) - The open-source website & API monitoring platform.
 - [Sentry](https://sentry.io/) - Fully integrated, multi-environment performance monitoring & error tracking.
+- [Axiom](https://axiom.co/) - Powerful monitoring & analytics tool.
 
 ### User Feedback
 - [Canny](https://canny.io) - Capture product feedback.
