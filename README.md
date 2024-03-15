@@ -110,6 +110,7 @@ This guide is aimed at guiding you through the whole journey of building your ow
 - [Beam](https://beamanalytics.io) - Google Analytics alternative.
 - [Fathom](https://usefathom.com) - Excellent Google Analytics Alternative
 - [Penkle](https://penkle.com) - EU Based privacy focused analytics.
+- [Pirsch](https://pirsch.io) - Cookie-free and Privacy-friendly Web Analytics.
 - [Plausible](https://plausible.io) - Privacy first analytics.
 - [Simple](https://www.simpleanalytics.com) - EU Based compliancy focused.
 - [Umami](https://umami.is) - Empowering insights, Preserving privacy.
