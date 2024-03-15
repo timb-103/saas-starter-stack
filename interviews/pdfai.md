@@ -1,0 +1,35 @@
+# PDF.ai
+
+## 1. What's your startups name, what does it do, how long have you been working on it and (optional) your MRR?
+[PDF.ai](https://pdf.ai/). It allows users to chat with PDF files using AI. I acquired it from Josh in May 2023, and since then I grew it beyond $50k MRR.
+
+## 2. What's your name and what were you doing before?
+My name is [Damon Chen](https://x.com/damengchen). I was a software engineer working for Cisco. Since Covid, I started side hustling to build my own business. I'm also the founder of Testimonial, a platform to help businesses collect and manage testimonials.
+
+## 3. How did you come up with your startup and it's name?
+It's from an [acquisition](https://www.tiktok.com/@mrdamonchen/video/7229860752239316270). Its original name was looseleaf.ai. Later, I rebranded it to PDF.ai.
+
+## 4. Are you a programmer, if so, how did you learn and how long did it take?
+I am a programmer at my day job. But the business I'm running requires a totally different tech stack, mostly web app-related, so I have to self-teach myself frontend and backend skills from Udemy.
+
+## 5. How long did it take you to build a mvp, did you do any validation?
+The MVP took its original owner a weekend or so, so it's really a weekend project. But it's bare minimum; you can only chat with one PDF at a time, no monetization at all. It creates some hype when being announced on social media. It's kind of like validation to me. When the project was listed for sale, it grabbed my attention, and eventually I acquired it.
+
+## 6. What was your launch like, what did you do, was it a success?
+The launch I did was a rebrand. I rebranded the product to PDF.ai and added monetization efforts. To further test the market and see if anyone is interested in buying the product, I offered a lifetime deal at $99. With over 300 adopters within a 3-month campaign, it provided enough validation for the monetization aspect and strong financial support to invest more effort into growing PDF.ai. I used the revenue from the LTD to hire a full-time engineer to work on it.
+
+## 7. How long did it take to get your first customer?
+Within 24 hours after launching the lifetime deal
+
+## 8. What's your top marketing methods and how can others start doing them?
+Top marketing effort is the relevant domain name. The domain name explicitly tells Google what we do, and our product is exactly like the domain says. Most of our traffic is organic, coming from Google when people search the term "PDF AI"; we rank at the top. So picking a good, relevant domain for your business will give you a head start in competing for some difficult keywords.
+
+## 9. Whats the top 5 tools you use to run your startup?
+1. OpenAI for obvious reasons
+2. Vercel for web hosting
+3. Deel to manage global pay for my remote employees/contractors
+4. Mercury for banking
+5. Stripe for payments
+
+## 10. What would you do differently if starting over?
+What we have done so far is more or less a very traditional way to grow a product. We keep building new features and share updates publicly on social media, then wait for virality to take off like hitting a jackpot. If I were to do it differently, I would explore more marketing channels, collaborate with influencers in their respective spaces - similar to what Jenni AI did by focusing on TikTok marketing with various influencers, which is quite ingenious and could rapidly increase brand awareness. Additionally, I would establish more partnerships with companies in related industries and engage in outreach efforts to assist older legacy industries in adopting AI technologies.
