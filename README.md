@@ -30,6 +30,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
     - [Authentification and User Management](#authentification-and-user-management)
     - [CRM](#crm)
     - [Form Builders](#form-builders)
+    - [Docs Builders](#docs-builders)   
 - [Contribute](#contribute)
 
 ## Guide
@@ -161,6 +162,10 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Tally](https://tally.so) - The simplest free online form builder.
 - [Youform](https://youform.io) - Create waitlist forms, surveys and more for free.
 
+### Docs Builders
+- [Docusaurus](https://docusaurus.io) - Open Source documentation builder.
+- [GitBook](https://www.gitbook.com) - Collaborate, publish and maintain technical knowledge with an all-in-one documentation platform.
+- [Mintlify](https://mintlify.com) - Mintlify enables you to easily customize the style, structure, and content of your docs.
 ## Contribute
 Contributions are always welcome!
 Please read the [contribution guidelines](contributing) first.
