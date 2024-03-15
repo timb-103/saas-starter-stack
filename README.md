@@ -17,6 +17,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
     - [Social Media Management](#social-media-management)
     - [Blogging](#blogging)
     - [Link Shortening](#link-shortening)
+    - [SEO](#seo)
     - [Media Processing & CDNs](#media-processing-and-content-delivery-networks)
     - [Website Analytics](#website-analytics)
     - [User Feedback](#user-feedback)
@@ -101,6 +102,9 @@ This guide is aimed at guiding you through the whole journey of building your ow
 ### Link Shortening
 - [Dub](https://dub.co) - Open-source link management.
 - [URLR](https://urlr.me/en) - Reliable and GDPR-compliant link shortener.
+
+### SEO
+- [Index Chief](https://indexchief.com) - Automatic fast website indexer
 
 ### Media Processing and Content Delivery Networks
 - [Transloadit](https://transloadit.com) - Receive, transform, or deliver any file.
