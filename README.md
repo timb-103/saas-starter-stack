@@ -9,6 +9,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
     - [Code](#code)
     - [Boilerplate Starter Kits](#boilerplate-starter-kits)
     - [Databases](#databases)
+    - [All-In-One Backends](#all-in-one-backends)
     - [Hosting](#hosting)
     - [Subscriptions & Payments](#subscriptions-and-payments)
     - [Knowledge Base & Help Center](#knowledge-base-and-help-center)
@@ -63,6 +64,9 @@ This guide is aimed at guiding you through the whole journey of building your ow
 - [MongoDB](https://mongodb.com) - Developer data platform (NoSQL).
 - [Pocketbase](https://pocketbase.io/) - Open Source backend in 1 file.
 - [Supabase](https://supabase.com) - Open Source Firebase Alternative
+
+### All-In-One Backends
+- [Directus](https://directus.io) - Open-source backend (APIs, Auth, Permissions) + CMS that works with most SQL databases.
 
 ### Hosting
 - [Render](https://render.com) - Build, deploy, and scale your apps.
