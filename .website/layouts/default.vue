@@ -5,6 +5,7 @@
         <div class="flex gap-2">
           <NuxtLink to="/">Home</NuxtLink>
           <NuxtLink to="/#guide">Guide</NuxtLink>
+          <NuxtLink to="/#interviews">Interviews</NuxtLink>
           <NuxtLink to="/#tools">Tools</NuxtLink>
         </div>
         <div class="flex gap-2">
