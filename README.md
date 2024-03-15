@@ -7,6 +7,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 - [Guide](#guide)
 - [Tools](#tools)
     - [Code](#code)
+    - [UI Libraries and Templates](#ui-libraries-and-templates)
     - [Boilerplate Starter Kits](#boilerplate-starter-kits)
     - [Databases](#databases)
     - [Hosting](#hosting)
@@ -42,6 +43,15 @@ This guide is aimed at guiding you through the whole journey of building your ow
 - [Next.js](https://nextjs.org) - The React Framework for the Web
 - [Remix](https://remix.run) - Focused on web standards and modern web app UX
 - [Sveltekit](https://kit.svelte.dev/) - Web development, streamlined.
+
+### UI Libraries and Templates
+- [Tailwindcss](https://tailwindcss.com/) - Rapidly build modern websites without ever leaving your HTML.
+- [HyperUI](https://www.hyperui.dev/) - Free Open Source Tailwind CSS Components.
+- [DaisyUI](https://daisyui.com/) - The most popular component library for Tailwind CSS.
+- [NuxtUI](https://ui.nuxt.com/) - A UI Library forModern Web Apps.
+- [TailGrids](https://tailgrids.com/) - Tailwind CSS UI Components, Blocks and Templates.
+- [Shadcn/UI](https://ui.shadcn.com/) - Build your component library.
+- [Skeleton](https://www.skeleton.dev/) - The UI toolkit for Svelte and Tailwind.
 
 ### Boilerplate Starter Kits
 - [BoxyHQ](https://github.com/boxyhq/saas-starter-kit) - Enterprise ready, open source, and powered by SAML Jackson.
