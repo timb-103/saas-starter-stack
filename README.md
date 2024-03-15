@@ -33,7 +33,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 ## Guide
 This guide is aimed at guiding you through the whole journey of building your own startup based on my learnings of growing my own startup Pallyy.
-- [Intro](0.guide-intro.md) - Backstory and what you'll learn.
+- [Introduction](guide/introduction) - Backstory and what you'll learn.
 
 ## Tools
 ### Code
@@ -158,4 +158,4 @@ This guide is aimed at guiding you through the whole journey of building your ow
 
 ## Contribute
 Contributions are always welcome!
-Please read the [contribution guidelines](contributing.md) first.
+Please read the [contribution guidelines](contributing) first.
