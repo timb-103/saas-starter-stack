@@ -52,6 +52,7 @@ This guide is aimed at guiding you through the whole journey of building your ow
 - [SaaS Pegasus](https://www.saaspegasus.com/) - The premier SaaS boilerplate for Python and Django.
 - [SaasRock](https://saasrock.com) - Remix SaaS boilerplate.
 - [ShipFast](https://shipfa.st) - NextJS boilerplate.
+- [SaasFrontends](https://saasfrontends.com) - Svelte, React, Vue + .NET boilerplates.
 - [Shipped.club](https://shipped.club) - NextJS Startup Boilerplate with Chrome Extension.
 - [Ionstarter](https://ionstarter.dev/) - Ionic starter templates to launch apps.
 - [RapidLaunch](https://rapidlaunch.it) - Nuxt.js boilerplate.
