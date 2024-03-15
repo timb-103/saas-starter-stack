@@ -127,6 +127,9 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [OpenStatus](https://www.openstatus.dev/) - The open-source website & API monitoring platform.
 - [Sentry](https://sentry.io/) - Fully integrated, multi-environment performance monitoring & error tracking.
 
+### API Monitoring
+- [Apitally](https://apitally.io) - Understand API usage, errors and performance.
+
 ### User Feedback
 - [Canny](https://canny.io) - Capture product feedback.
 - [featureOS](https://featureos.app) - Organize product feedback and analyze with AI.
