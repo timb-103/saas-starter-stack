@@ -31,6 +31,13 @@ export default defineNuxtConfig({
       htmlAttrs: {
         lang: 'en'
       },
-    }
+      meta: [
+        { 
+          name: 'description', 
+          content: 'A curated list of free and affordable tools for building a SaaS.'
+        },
+      ]
+    },
+    
   }
 })
