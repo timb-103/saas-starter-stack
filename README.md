@@ -131,6 +131,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Canny](https://canny.io) - Capture product feedback.
 - [featureOS](https://featureos.app) - Organize product feedback and analyze with AI.
 - [Supahub](https://supahub.com) - Collect feedback & announce product updates.
+- [Ziggy](https://useziggy.com) - Use AI to conduct in-depth user interviews and collect feedback with realtime analytics.
 
 ### SMS Notifications
 - [Notilify](https://notilify.com) - Send marketing, transactional, notifications, and more.
