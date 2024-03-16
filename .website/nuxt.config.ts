@@ -1,15 +1,15 @@
 import path from 'path';
 
-// https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { 
-    enabled: false 
+    enabled: true 
   },
   modules: [
     '@nuxt/content',
     '@nuxtjs/tailwindcss',
     '@nuxtjs/plausible',
-    "@nuxt/fonts"
+    '@nuxt/fonts',
+    'nuxt-og-image'
   ],
   plausible: {
     domain: 'saasstarterstack.com',
@@ -36,7 +36,12 @@ export default defineNuxtConfig({
           name: 'description', 
           content: 'A curated list of free and affordable tools for building a SaaS.'
         },
+        { name: 'twitter:card', content: 'summary_large_image' },
+        { name: 'twitter:site', content: '@timb03' }
       ]
     },
+  },
+  site: {
+    url: 'https://saasstarterstack.com',
   },
 })
