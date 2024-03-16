@@ -70,7 +70,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Appwrite](https://appwrite.io) - Open-source backend-as-a-service platform for databases.
 - [MongoDB](https://mongodb.com) - Developer data platform (NoSQL).
 - [Pocketbase](https://pocketbase.io/) - Open Source backend in 1 file.
-- [Prisma](https://prisma.io) - Simple db interactions via the ORM, + connection pooling & edge caching, + type-safe db events
+- [Prisma](https://prisma.io?utm_source=saas-starter-stack) - Simple db interactions via the ORM, + connection pooling & edge caching, + type-safe db events
 - [Supabase](https://supabase.com) - Open Source Firebase Alternative
 
 ### Hosting
