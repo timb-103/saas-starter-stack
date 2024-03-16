@@ -95,6 +95,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 
 ### Chatbots
 - [Mevo](https://usemevo.com) - Chatbot builder with AI and rule-based options.
+- [PayMeForMyAI](https://pmfm.ai) - Build, Monetize, and Publish Chatbot apps to websites.
 
 ### Social Media Management
 - [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
