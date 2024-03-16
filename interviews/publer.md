@@ -7,7 +7,7 @@ I worked on it as a side project from 2012 until 2014, then took a one-year brea
 
 I hired the first employees in 2017, and we now have a team of 20.
 
-Current MRR: $172K
+Current MRR: $170K+
 
 ## 2. What's your name and what were you doing before?
 Ervin Kalemi. I was a junior Ruby developer for 3 years at a small startup in Houston, TX.
@@ -40,7 +40,7 @@ I feel like it was harder to launch something in 2012, or maybe I didn't know th
 
 I only used Facebook back then, so it felt more like a family & friends gathering than a public launch.
 
-But I consider the AppSumo partnership in 2020 to be the real launch.
+However, I consider the AppSumo partnership in 2020 the actual launch.
 
 That was our turning point: https://www.linkedin.com/pulse/how-we-made-250000-appsumo-ervin-kalemi/
 
@@ -54,11 +54,11 @@ Our ambassador/affiliate program.
 
 We paid $40K in commissions last year and gained $219K more in ARR.
 
-I strongly believe in building it in-house as I did back in 2018. 
+I strongly believe in building it in-house, as I did back in 2018. 
 
-There are no high 3rd-party fees, it is easy to implement using PayPal's Mass Pay, and gives you the flexibility to tweak it as you wish.
+There are no high 3rd-party fees, it is easy to implement using PayPal's Mass Pay, and it gives you the flexibility to tweak it as you wish.
 
-For example, we offer different commission rates based on the revenue brought, I use it internally for the sales team, and we give bonuses and/or early access to our top affiliates.
+For example, we offer different commission rates based on the revenue brought and give bonuses and/or early access to our top affiliates. I also use it internally to track and reward the sales skills of the support team.
 
 I'm aiming to write a detailed guide soon.
 
