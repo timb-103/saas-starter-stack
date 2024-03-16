@@ -6,7 +6,7 @@
           {{ title }}
         </h1>
         <h2 class="text-[50px] px-20 text-gray-500 text-left font-medium">
-          {{ description }}
+          {{ description.length > 150 ? `${description.slice(0, 150)}...` : description }}
         </h2>
         <p class="text-3xl px-20 font-bold mb-20 mt-auto">
           saasstarterstack.com

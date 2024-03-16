@@ -35,6 +35,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
 ## Guide
 This guide is aimed at guiding you through the whole journey of building your own startup based on my learnings of growing my own startup Pallyy.
 - [Introduction](guide/introduction) - Backstory and what you'll learn.
+- [Saving a Buffer](guide/saving-a-buffer) - Go all-in, or as a side project?
 
 ## Interviews
 Learn even more from reading interviews from SaaS founders with at least $500 MRR. Coming soon. To submit an interview, read the [guidelines](interviews/guidelines).
