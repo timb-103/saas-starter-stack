@@ -150,6 +150,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Resend](https://resend.com) - Email for developers.
 - [Mailgun](https://www.mailgun.com) - Email service providing API, SMTP.
 - [Plunk](https://www.useplunk.com) - The Email Platform for SaaS.
+- [Postmark](https://postmarkapp.com/) - Developer friendly Email Delivery Service.
 
 ### Event Scheduling
 - [Cal.com](https://cal.com) - Scheduling Infrastructure for Everyone.
