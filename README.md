@@ -169,4 +169,4 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 
 ## Contribute
 Contributions are always welcome!
-Please read the [contribution guidelines](contributing) first.
+Please read the [contribution guidelines](contributing.md) first.
