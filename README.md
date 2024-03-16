@@ -96,6 +96,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 
 ### Chatbots
 - [Mevo](https://usemevo.com) - Chatbot builder with AI and rule-based options.
+- [Chatwith](https://chatwith.tools) - Train custom GPT on files, links and with actions.
 
 ### Social Media Management
 - [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
@@ -113,6 +114,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 ### Media Processing and Content Delivery Networks
 - [Transloadit](https://transloadit.com) - Receive, transform, or deliver any file.
 - [ImageKit](https://imagekit.io) - Real-time image and video optimizations, transformations.
+- [Cloudflare](https://cloudflare.com) - CDN, infrastructure, security.
 
 ### Website Analytics
 - [Beam](https://beamanalytics.io) - Google Analytics alternative.
@@ -123,6 +125,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Simple](https://www.simpleanalytics.com) - EU Based compliancy focused.
 - [Umami](https://umami.is) - Empowering insights, Preserving privacy.
 - [Usermaven](https://usermaven.com) - Free, privacy-friendly website analytics and product insights.
+- [Amplitude](https://amplitude.com) - Event-driven product analytics.
 
 ### Website Monitoring
 - [DataDog](https://datadog.com) - See inside any stack, any app, at any scale, anywhere.
@@ -151,6 +154,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Mailgun](https://www.mailgun.com) - Email service providing API, SMTP.
 - [Plunk](https://www.useplunk.com) - The Email Platform for SaaS.
 - [Postmark](https://postmarkapp.com/) - Developer friendly Email Delivery Service.
+- [listmonk](https://listmonk.app) - Self-hosted newsletter and mailing list manager.
 
 ### Event Scheduling
 - [Cal.com](https://cal.com) - Scheduling Infrastructure for Everyone.
@@ -158,6 +162,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 ### Authentification and User Management
 - [BoxyHQ](https://boxyhq.com) - Open source security building blocks for developers.
 - [Clerk](https://clerk.com) - The most comprehensive User Management Platform
+- [NextAuth](https://next-auth.js.org) - Authentication for Next.js
 
 ### CRM
 - [Wobaka](https://wobaka.com) - Refreshingly simple CRM and email automation
