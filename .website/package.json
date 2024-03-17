@@ -5,12 +5,14 @@
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
-    "preview": "nuxt preview"
+    "preview": "nuxt preview",
+    "build-readme": "node build-readme.cjs"
   },
   "dependencies": {
     "@nuxt/content": "^2.12.1",
     "@nuxtjs/tailwindcss": "^6.11.4",
     "@tailwindcss/typography": "^0.5.10",
+    "gray-matter": "^4.0.3",
     "nuxt": "^3.10.3"
   },
   "devDependencies": {
