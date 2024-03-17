@@ -23,11 +23,11 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
-        working-directory: ./website
+        working-directory: /.website
 
       - name: Build README
         run: npm run build-readme
-        working-directory: ./website
+        working-directory: /.website
 
       - name: Commit and push changes
         run: |
