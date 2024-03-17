@@ -4,6 +4,18 @@ const fs = require('fs');
 const path = require('path');
 const matter = require('gray-matter');
 
+// Function to sanitize names for use in links
+function sanitizeName(name) {
+    console.log(`Before: ${name}`);
+    name = name.trim()
+        .toLowerCase()
+        .replace(/ /g, '-')
+        .replace(/&/g, 'and')
+        .replace(/[^\w-]+/g, '');
+    console.log(`After: ${name}`);
+    return encodeURIComponent(name)
+}
+
 // Start the content with the header
 let content = fs.readFileSync(path.join(__dirname, '../partials/header.md'), 'utf8');
 
@@ -15,10 +27,10 @@ const {sections, categories} = matter(sectionsFileContent).data;
 // Add the table of contents
 content += '## Table of Contents\n';
 for (const section of sections) {
-    content += '- [' + section.name + '](#' + section.name.toLowerCase() + ')\n';
+    content += '- [' + section.name + '](#' + sanitizeName(section.name) + ')\n';
     if (section.name === 'Tools') {
         for (const category of categories) {
-            content += '    - [' + category.name + '](#' + category.name.toLowerCase().replace(/ /g, '-') + ')\n';
+            content += '    - [' + category.name + '](#' + sanitizeName(category.name) + ')\n';
         }
     }
 }
