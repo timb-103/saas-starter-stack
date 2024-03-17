@@ -14,9 +14,57 @@
         </div>
       </div>
       <slot />
+
+      <div class="bg-gray-50 border border-gray-200 rounded-md p-4">
+        <form v-if="!subscribed" @submit.prevent="submitForm" class="flex flex-col gap-2 items-start">
+          <p class="my-0 font-semibold">Sign up to the SaaS Starter Stack newsletter</p>
+          <p class="my-0 text-sm mb-2">Get notified when we launch new founder interviews and tools.</p>
+          <input 
+            required 
+            type="email" 
+            name="email" 
+            v-model="email" 
+            placeholder="Enter your email" 
+            class="border border-gray-200 rounded-md px-2"
+            />
+          <button 
+            :disabled="loading"
+            type="submit" 
+            class="bg-primary-400 text-white px-4 py-1 font-semibold rounded-md mt-2 hover:bg-primary-500"
+            >
+            <span v-if="!loading">Submit</span>
+            <span v-else>Submitting...</span>
+          </button>
+        </form>
+        <p v-else>Thanks for subscribing.</p>
+      </div>
+      
     </main>
   </div>
 </template>
+
+<script setup lang="ts">
+const email = ref('');
+const subscribed = ref(false);
+const loading = ref(false);
+
+async function submitForm(): Promise<void> {
+  try {
+    await $fetch( 'https://track.bentonow.com/forms/3442b26dc38a70ad38076a5606c6230f/$subscribe', {
+      method: 'POST',
+      body: {
+        email: email.value
+      }
+    });
+  
+    subscribed.value = true;
+  } catch(err) {
+    console.log(err)
+  }
+
+  loading.value = false;
+}
+</script>
 
 <style lang="postcss">
 body {
