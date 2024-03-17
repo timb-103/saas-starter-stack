@@ -1,0 +1,36 @@
+name: Build README.md
+
+on:
+  pull_request:
+    types: [closed]
+    branches:
+      - main
+      - read-me-generator
+
+jobs:
+  build:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build README
+        run: npm run build-readme
+
+      - name: Commit and push changes
+        run: |
+          git diff
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -am "Update README.md" || echo "No changes to commit"
+          git push
