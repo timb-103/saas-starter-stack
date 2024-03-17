@@ -10,7 +10,7 @@ let content = fs.readFileSync(path.join(__dirname, '../partials/header.md'), 'ut
 // Read the sections file
 const sectionsFilePath = path.join(__dirname, '../partials/sections.md');
 const sectionsFileContent = fs.readFileSync(sectionsFilePath, 'utf-8');
-const { sections, categories } = matter(sectionsFileContent).data;
+const {sections, categories} = matter(sectionsFileContent).data;
 
 // Add the table of contents
 content += '## Table of Contents\n';
@@ -57,32 +57,58 @@ for (const section of sections) {
         }
     }
 
-    // log in the terminal, the items
-    console.log(items);
-
-    // Sort the items by order if it exists, otherwise by name
-    items.sort((a, b) => {
-        if (a.order && b.order) {
-            return a.order - b.order;
-        } else {
-            return a.name.localeCompare(b.name);
+    // Group the items by category if the section is Tools
+    const itemsByCategory = items.reduce((groups, item) => {
+        if (item.category) {
+            if (!groups[item.category]) {
+                groups[item.category] = [];
+            }
+            groups[item.category].push(item);
         }
-    });
+        return groups;
+    }, {});
 
     // Add the items to the content
-    let currentCategory = '';
-    for (const item of items) {
-        // If the category has changed, add a new header
-        if (item.category !== currentCategory) {
-            currentCategory = item.category;
-            if (section.name === 'Tools') {
-                content += '### ' + currentCategory + '\n';
+    if (section.name === 'Tools') {
+        for (const category of categories) {
+            content += '### ' + category.name + '\n';
+            if (category.description) {
+                // Uncomment this line to add the category description to the content
+                //content += category.description + '\n';
             }
+            if (itemsByCategory[category.name]) {
+                itemsByCategory[category.name].sort((a, b) => {
+                    if (a.order && b.order) {
+                        return a.order - b.order;
+                    } else {
+                        return a.name.localeCompare(b.name);
+                    }
+                });
+                for (const item of itemsByCategory[category.name]) {
+                    content += '- [' + item.name + '](' + item.link + ') - ' + item.description + '\n';
+                }
+            }
+            content += '\n';
         }
-        content += '- [' + item.name + '](' + item.link + ') - ' + item.description + '\n';
-    }
+    } else {
 
-    content += '\n';
+        // Sort the items by order if it exists, otherwise by name
+        items.sort((a, b) => {
+            if (a.order && b.order) {
+                return a.order - b.order;
+            } else {
+                return a.name.localeCompare(b.name);
+            }
+        });
+
+        // Add the items to the content
+        for (const item of items) {
+            content += '- [' + item.name + '](' + item.link + ') - ' + item.description + '\n';
+        }
+
+        content += '\n';
+
+    }
 
 }
 
