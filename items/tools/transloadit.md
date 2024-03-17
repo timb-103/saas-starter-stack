@@ -1,6 +1,6 @@
 ---
 section: Tools
-category: Media Processing and Content Delivery Networks
+category: Media Processing & CDNs
 name: Transloadit
 link: https://transloadit.com
 description: Receive, transform, or deliver any file.

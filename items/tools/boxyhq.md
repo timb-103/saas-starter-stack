@@ -1,6 +1,6 @@
 ---
 section: Tools
-category: Boilerplate Starter Kits
+category: Authentication & User Management
 name: BoxyHQ
 link: https://boxyhq.com
 description: Open source security building blocks for developers.

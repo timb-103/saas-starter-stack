@@ -1,6 +1,6 @@
 ---
 section: Tools
-category: Subscriptions and Payments
+category: Subscriptions & Payments
 name: Stripe
 link: https://stripe.com
 description: Financial infrastructure for the internet.
