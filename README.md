@@ -10,14 +10,14 @@ Get your SaaS up and running in no time with this list of free and affordable to
     - [Boilerplate Starter Kits](#boilerplate-starter-kits)
     - [Databases](#databases)
     - [Hosting](#hosting)
-    - [Subscriptions and Payments](#subscriptions-and-payments)
-    - [Knowledge Base and Help Center](#knowledge-base-and-help-center)
+    - [Subscriptions & Payments](#subscriptions-&-payments)
+    - [Knowledge Base & Help Center](#knowledge-base-&-help-center)
     - [Live Chat](#live-chat)
     - [Chatbots](#chatbots)
     - [Social Media Management](#social-media-management)
     - [Blogging](#blogging)
     - [Link Shortening](#link-shortening)
-    - [Media Processing and Content Delivery Networks](#media-processing-and-content-delivery-networks)
+    - [Media Processing & CDNs](#media-processing-&-cdns)
     - [Website Analytics](#website-analytics)
     - [Website Monitoring](#website-monitoring)
     - [User Feedback](#user-feedback)
@@ -26,7 +26,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
     - [Affiliates](#affiliates)
     - [Email Notifications](#email-notifications)
     - [Event Scheduling](#event-scheduling)
-    - [Authentication and User Management](#authentication-and-user-management)
+    - [Authentication & User Management](#authentication-&-user-management)
     - [CRM](#crm)
     - [Form Builders](#form-builders)
 - [Contribute](#contribute)
@@ -49,10 +49,10 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Next.js](https://nextjs.org) - The React Framework for the Web
 - [Nuxt](https://nuxt.com) - The intuitive Vue framework.
 - [Remix](https://remix.run) - Focused on web standards and modern web app UX
+- [SolidJS](https://www.solidjs.com/) - Declarative JS library for building user interfaces and real-time web applications.
 - [Sveltekit](https://kit.svelte.dev/) - Web development, streamlined.
 
 ### Boilerplate Starter Kits
-- [BoxyHQ](https://boxyhq.com) - Open source security building blocks for developers.
 - [DevToDollars](https://devtodollars.com) - Open-source Flutter boilerplate.
 - [Ionstarter](https://ionstarter.dev/) - Ionic starter templates to launch apps.
 - [Just Launch It](https://www.justlaunch.it/) - Sveltekit boilerplate.
@@ -79,12 +79,12 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Vercel](https://vercel.com) - Build, scale, and secure a faster, personalized web.
 - [Zeabur](https://zeabur.com) - Deploy painlessly and scale infinitely.
 
-### Subscriptions and Payments
+### Subscriptions & Payments
 - [Lemon Squeezy](https://lemonsqueezy.com) - Payments, tax & subscriptions.
 - [Paddle](https://www.paddle.com) - The complete payments, tax, and subscriptions solution.
 - [Stripe](https://stripe.com) - Financial infrastructure for the internet.
 
-### Knowledge Base and Help Center
+### Knowledge Base & Help Center
 - [Bliberoo](https://bliberoo.com) - Help center, internal wiki or API documetation.
 - [HelpKit](https://www.helpkit.so) - Turn Notion into a Help Center / Documentation Site.
 
@@ -110,7 +110,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Dub](https://dub.co) - Open-source link management.
 - [URLR](https://urlr.me/en) - Reliable and GDPR-compliant link shortener.
 
-### Media Processing and Content Delivery Networks
+### Media Processing & CDNs
 - [ImageKit](https://imagekit.io) - Real-time image and video optimizations, transformations.
 - [Transloadit](https://transloadit.com) - Receive, transform, or deliver any file.
 
@@ -155,7 +155,8 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 ### Event Scheduling
 - [Cal.com](https://cal.com) - Scheduling Infrastructure for Everyone.
 
-### Authentication and User Management
+### Authentication & User Management
+- [BoxyHQ](https://boxyhq.com) - Open source security building blocks for developers.
 - [Clerk](https://clerk.com) - The most comprehensive User Management Platform
 
 ### CRM
