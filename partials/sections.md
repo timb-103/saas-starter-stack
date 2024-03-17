@@ -15,9 +15,9 @@ categories:
       description: Databases for storing and managing data.
     - name: Hosting
       description: Hosting services for deploying your SaaS.
-    - name: Subscriptions & Payments
+    - name: Subscriptions and Payments
       description: Services for managing subscriptions and payments.
-    - name: Knowledge Base & Help Center
+    - name: Knowledge Base and Help Center
       description: Tools for creating and managing a knowledge base and help center.
     - name: Live Chat
       description: Tools for providing live chat support.
@@ -29,7 +29,7 @@ categories:
       description: Tools for creating and managing a blog.
     - name: Link Shortening
       description: Tools for shortening and managing links.
-    - name: Media Processing & CDNs
+    - name: Media Processing and CDNs
       description: Tools for processing media and managing content delivery networks.
     - name: Website Analytics
       description: Tools for tracking and analyzing website traffic.
@@ -47,7 +47,7 @@ categories:
       description: Tools for sending e-mail notifications.
     - name: Event Scheduling
       description: Tools for scheduling and managing events.
-    - name: Authentication & User Management
+    - name: Authentication and User Management
       description: Tools for managing user authentication and access control.
     - name: CRM
       description: Tools for managing customer relationships.

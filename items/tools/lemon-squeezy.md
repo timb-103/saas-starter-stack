@@ -1,6 +1,6 @@
 ---
 section: Tools
-category: Subscriptions & Payments
+category: Subscriptions and Payments
 name: Lemon Squeezy
 link: https://lemonsqueezy.com
 description: Payments, tax & subscriptions.

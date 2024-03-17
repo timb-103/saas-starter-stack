@@ -1,6 +1,6 @@
 ---
 section: Tools
-category: Authentication & User Management
+category: Authentication and User Management
 name: Clerk
 link: https://clerk.com
 description: The most comprehensive User Management Platform

@@ -1,6 +1,6 @@
 ---
 section: Tools
-category: Media Processing & CDNs
+category: Media Processing and CDNs
 name: ImageKit
 link: https://imagekit.io
 description: Real-time image and video optimizations, transformations.
