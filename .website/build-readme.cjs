@@ -6,13 +6,11 @@ const matter = require('gray-matter');
 
 // Function to sanitize names for use in links
 function sanitizeName(name) {
-    console.log(`Before: ${name}`);
     name = name.trim()
         .toLowerCase()
         .replace(/ /g, '-')
         .replace(/&/g, 'and')
         .replace(/[^\w-]+/g, '');
-    console.log(`After: ${name}`);
     return encodeURIComponent(name)
 }
 

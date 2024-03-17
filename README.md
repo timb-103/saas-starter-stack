@@ -49,7 +49,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Next.js](https://nextjs.org) - The React Framework for the Web
 - [Nuxt](https://nuxt.com) - The intuitive Vue framework.
 - [Remix](https://remix.run) - Focused on web standards and modern web app UX
-- [SolidJS](https://www.solidjs.com/) - Declarative JavaScript library for building user interfaces and real-time web applications.
+- [SolidJS](https://www.solidjs.com/) - Declarative JS library for building user interfaces and real-time web applications.
 - [Sveltekit](https://kit.svelte.dev/) - Web development, streamlined.
 
 ### Boilerplate Starter Kits
@@ -63,6 +63,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [React Native Boilerplate](https://reactnativeboilerplate.com) - Mobile SaaS Boilerplate to launch on iOS and Android.
 - [SaaS Pegasus](https://www.saaspegasus.com/) - The premier SaaS boilerplate for Python and Django.
 - [ShipFast](https://shipfa.st) - NextJS boilerplate.
+- [Shipixen](https://shipixen.com) - Next.js boilerplates with an MDX blog, TypeScript and Shadcn UI
 - [Shipped.club](https://shipped.club) - NextJS Startup Boilerplate with Chrome Extension.
 - [Supastarter](https://supastarter.dev) - Production-ready SaaS starter kit for Next.js 14 and Nuxt 3.
 
@@ -100,6 +101,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 ### Social Media Management
 - [Buffer](https://buffer.com) - Grow your audience on social and beyond.
 - [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
+- [StoryChief](https://storychief.io) - Content Marketing Platform for marketing teams.
 
 ### Blogging
 - [BlogPro](https://blogpro.so) - Notion to Blog for startups.
