@@ -101,6 +101,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 ### Social Media Management
 - [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
 - [Buffer](https://buffer.com)- Grow your audience on social and beyond.
+- [InstaHunter](https://instahunter.io) - Grow your Instagram account FAST with AI.
 
 ### Blogging
 - [BlogPro](https://blogpro.so) - Notion to Blog for startups.
