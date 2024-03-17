@@ -30,6 +30,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
     - [Authentification and User Management](#authentification-and-user-management)
     - [CRM](#crm)
     - [Form Builders](#form-builders)
+    - [Data Import](#data-import)
 - [Contribute](#contribute)
 
 ## Guide
@@ -166,6 +167,9 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 ### Form Builders
 - [Tally](https://tally.so) - The simplest free online form builder.
 - [Youform](https://youform.io) - Create waitlist forms, surveys and more for free.
+
+#### Data Import
+- [Impler](https://impler.io) - Open source csv & excel import experience you can embed into any app.
 
 ## Contribute
 Contributions are always welcome!
