@@ -67,6 +67,8 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Supastarter](https://supastarter.dev) - Production-ready SaaS starter kit for Next.js 14 and Nuxt 3.
 - [React Native Boilerplate](https://reactnativeboilerplate.com) - Mobile SaaS Boilerplate to launch on iOS and Android.
 - [DevToDollars](https://devtodollars.com) - Open-source Flutter boilerplate.
+- [Shipixen](https://shipixen.com) - Next.js boilerplates with an MDX blog, TypeScript and Shadcn UI
+
 
 ### Databases
 - [Appwrite](https://appwrite.io) - Open-source backend-as-a-service platform for databases.
@@ -80,6 +82,8 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Railway](https://railway.app) - Instant Deployments, Effortless Scale
 - [Netlify](https://netlify.com) - Connect everything. Build anything.
 - [Zeabur](https://zeabur.com) - Deploy painlessly and scale infinitely.
+- [Hetzner](https://hetzner.com) - Low-cost dedicated server for self-hosting.
+- [Coolify](https://coolify.io) - Open-source Vercel and Netlify alternative.
 
 ### Subscriptions and Payments
 - [Stripe](https://stripe.com) - Financial infrastructure for the internet.
@@ -102,11 +106,13 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 ### Social Media Management
 - [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
 - [Buffer](https://buffer.com)- Grow your audience on social and beyond.
+- [StoryChief](https://storychief.io) - Content Marketing Platform for marketing teams.
 
 ### Blogging
 - [BlogPro](https://blogpro.so) - Notion to Blog for startups.
 - [Docs to Markdown Pro](https://docstomarkdown.pro) - Publish Google Docs as Markdown to GitHub/GitLab.
 - [Docs to WP Pro](https://docstowp.pro) - Publish SEO-optimized WordPress posts from Google Docs.
+- [Blogkit](https://blogkit.org) - Blogging starter kits for Next.js with WordPress, Directus, Contentlayer & MDX.
 
 ### Link Shortening
 - [Dub](https://dub.co) - Open-source link management.
