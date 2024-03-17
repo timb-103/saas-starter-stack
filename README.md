@@ -110,10 +110,11 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [StoryChief](https://storychief.io) - Content Marketing Platform for marketing teams.
 
 ### Blogging
+- [Blogkit](https://blogkit.org) - Blogging starter kits for Next.js with WordPress, Directus, Contentlayer & MDX.
 - [BlogPro](https://blogpro.so) - Notion to Blog for startups.
 - [Docs to Markdown Pro](https://docstomarkdown.pro) - Publish Google Docs as Markdown to GitHub/GitLab.
 - [Docs to WP Pro](https://docstowp.pro) - Publish SEO-optimized WordPress posts from Google Docs.
-- [Blogkit](https://blogkit.org) - Blogging starter kits for Next.js with WordPress, Directus, Contentlayer & MDX.
+- [Quotion](https://quotion.co) - Apple Notes to Blog in minutes, built-in web analytics, SEO-ready.
 
 ### Link Shortening
 - [Dub](https://dub.co) - Open-source link management.
