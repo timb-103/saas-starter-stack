@@ -33,7 +33,7 @@
             class="bg-primary-400 text-white px-4 py-1 font-semibold rounded-md mt-2 hover:bg-primary-500"
             >
             <span v-if="!loading">Submit</span>
-            <spav v-else>Submitting...</spav>
+            <span v-else>Submitting...</span>
           </button>
         </form>
         <p v-else>Thanks for subscribing.</p>
