@@ -59,6 +59,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [LaunchFast](https://www.launchfa.st) - Astro, Next.js, and SvelteKit boilerplates for.
 - [Nextless.js](https://nextlessjs.com) - Next.js Boilerplate with Auth, Multi-tenancy & Team, etc.
 - [SaaS Pegasus](https://www.saaspegasus.com/) - The premier SaaS boilerplate for Python and Django.
+- [SaaSykit](https://saasykit.com) - Laravel SaaS boilerplate that helps makers ship SaaS products faster.
 - [ShipFast](https://shipfa.st) - NextJS boilerplate.
 - [Shipped.club](https://shipped.club) - NextJS Startup Boilerplate with Chrome Extension.
 - [Ionstarter](https://ionstarter.dev/) - Ionic starter templates to launch apps.
