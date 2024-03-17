@@ -30,6 +30,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
     - [Authentification and User Management](#authentification-and-user-management)
     - [CRM](#crm)
     - [Form Builders](#form-builders)
+    - [Conversion Rate Optimization](#conversion-rate-optimization)
 - [Contribute](#contribute)
 
 ## Guide
@@ -121,6 +122,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Penkle](https://penkle.com) - EU Based privacy focused analytics.
 - [Pirsch](https://pirsch.io) - Cookie-free and Privacy-friendly Web Analytics.
 - [Plausible](https://plausible.io) - Privacy first analytics.
+- [PostHog](https://posthog.com) - The single platform to analyze,and deploy new features.
 - [Simple](https://www.simpleanalytics.com) - EU Based compliancy focused.
 - [Umami](https://umami.is) - Empowering insights, Preserving privacy.
 - [Usermaven](https://usermaven.com) - Free, privacy-friendly website analytics and product insights.
@@ -166,6 +168,9 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 ### Form Builders
 - [Tally](https://tally.so) - The simplest free online form builder.
 - [Youform](https://youform.io) - Create waitlist forms, surveys and more for free.
+
+#### Conversion Rate Optimization
+- [JustConvert](https://justconvert.co) - Boost Your Conversion Rate with AI Analytics
 
 ## Contribute
 Contributions are always welcome!
