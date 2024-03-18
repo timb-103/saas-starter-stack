@@ -16,6 +16,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
     - [Live Chat](#live-chat)
     - [Chatbots](#chatbots)
     - [Social Media Management](#social-media-management)
+    - [Testing](#testing)
     - [Blogging](#blogging)
     - [Link Shortening](#link-shortening)
     - [Media Processing & CDNs](#media-processing-and-content-delivery-networks)
@@ -109,6 +110,9 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
 - [Buffer](https://buffer.com)- Grow your audience on social and beyond.
 - [StoryChief](https://storychief.io) - Content Marketing Platform for marketing teams.
+
+#### Testing
+- [Keploy](https://keploy.io) - Generate tests and stubs for your application that actually work.
 
 ### Blogging
 - [Blogkit](https://blogkit.org) - Blogging starter kits for Next.js with WordPress, Directus, Contentlayer & MDX.
