@@ -77,9 +77,9 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Supabase](https://supabase.com) - Open Source Firebase Alternative
 
 ### Hosting
-- [Coolify](https://coolify.net/) - Open-source Vercel and Netlify alternative.
+- [Coolify](https://coolify.io/) - Open-source Vercel and Netlify alternative.
 - [DigitalOcean](https://www.digitalocean.com/) - Cloud hosting droplets for self-hosting.
-- [Hetzner](https://www.hetzner.com/) - Low-cost dedicated server for self-hosting.
+- [Hetzner](https://hetzner.com/) - Low-cost dedicated server for self-hosting.
 - [Netlify](https://netlify.com) - Connect everything. Build anything.
 - [Railway](https://railway.app) - Instant Deployments, Effortless Scale
 - [Render](https://render.com) - Build, deploy, and scale your apps.
