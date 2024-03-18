@@ -51,7 +51,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Next.js](https://nextjs.org) - The React Framework for the Web
 - [Nuxt](https://nuxt.com) - The intuitive Vue framework.
 - [Remix](https://remix.run) - Focused on web standards and modern web app UX
-- [SolidJS](https://www.solidjs.com/) - Declarative JS library for building user interfaces and real-time web applications.
+- [SolidJS](https://www.solidjs.com/) - JS library for building user interfaces and real-time web apps.
 - [Sveltekit](https://kit.svelte.dev/) - Web development, streamlined.
 
 ### Boilerplate Starter Kits
@@ -73,9 +73,13 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Appwrite](https://appwrite.io) - Open-source backend-as-a-service platform for databases.
 - [MongoDB](https://mongodb.com) - Developer data platform (NoSQL).
 - [Pocketbase](https://pocketbase.io/) - Open Source backend in 1 file.
+- [Prisma](https://prisma.io) - Simple db interactions via the ORM, + connection pooling & edge caching, + type-safe db events
 - [Supabase](https://supabase.com) - Open Source Firebase Alternative
 
 ### Hosting
+- [Coolify](https://coolify.net/) - Open-source Vercel and Netlify alternative.
+- [DigitalOcean](https://www.digitalocean.com/) - Cloud hosting droplets for self-hosting.
+- [Hetzner](https://www.hetzner.com/) - Low-cost dedicated server for self-hosting.
 - [Netlify](https://netlify.com) - Connect everything. Build anything.
 - [Railway](https://railway.app) - Instant Deployments, Effortless Scale
 - [Render](https://render.com) - Build, deploy, and scale your apps.

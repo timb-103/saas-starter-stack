@@ -1,6 +1,6 @@
 ---
 section: Tools
-category: Database
+category: Databases
 name: Prisma
 link: https://prisma.io
 description: Simple db interactions via the ORM, + connection pooling & edge caching, + type-safe db events
