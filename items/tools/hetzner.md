@@ -2,7 +2,7 @@
 section: Tools
 category: Hosting
 name: Hetzner
-link: https://www.hetzner.com/
+link: https://hetzner.com/
 description: Low-cost dedicated server for self-hosting.
 twitter:
 creator:
