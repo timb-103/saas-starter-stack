@@ -132,6 +132,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Pirsch](https://pirsch.io) - Cookie-free and Privacy-friendly Web Analytics.
 - [Plausible](https://plausible.io) - Privacy first analytics.
 - [Simple](https://www.simpleanalytics.com) - EU Based compliancy focused.
+- [Swetrix](https://swetrix.com) - Open source, feature rich web analytics.
 - [Umami](https://umami.is) - Empowering insights, Preserving privacy.
 - [Usermaven](https://usermaven.com) - Free, privacy-friendly website analytics and product insights.
 
