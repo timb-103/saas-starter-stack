@@ -16,6 +16,7 @@
   "devDependencies": {
     "@nuxt-themes/typography": "^1.0.1",
     "@nuxt/fonts": "^0.3.0",
-    "@nuxtjs/plausible": "^0.2.4"
+    "@nuxtjs/plausible": "^0.2.4",
+    "nuxt-og-image": "^3.0.0-rc.45"
   }
 }
