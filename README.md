@@ -43,6 +43,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Gliglish](interviews/gliglish) - Learn languages with AI by Fabien Snauwaert doing $8K MRR.
 - [Plausible](interviews/plausible) - Website analytics by Marko Sarik and Uku doing over $100K MRR.
 - [PDFai](interviews/pdfai) - Chat with PDF tool by Damon Chen doing over $50K MRR.
+- [Publer](interviews/publer) - Social scheduling platform by Ervin Kalemi doing $170K MRR.
 
 ## Tools
 ### Code
