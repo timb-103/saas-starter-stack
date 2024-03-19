@@ -74,6 +74,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 
 ### Databases
 - [Appwrite](https://appwrite.io) - Open-source backend-as-a-service platform for databases.
+- [Drizzle ORM](https://orm.drizzle.team/) - Headless Typescript ORM.
 - [MongoDB](https://mongodb.com) - Developer data platform (NoSQL).
 - [Pocketbase](https://pocketbase.io/) - Open Source backend in 1 file.
 - [Prisma](https://prisma.io) - Simple db interactions via the ORM, + connection pooling & edge caching, + type-safe db events
