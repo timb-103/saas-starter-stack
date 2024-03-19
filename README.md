@@ -53,9 +53,13 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Next.js](https://nextjs.org) - The React Framework for the Web
 - [Remix](https://remix.run) - Focused on web standards and modern web app UX
 - [Sveltekit](https://kit.svelte.dev/) - Web development, streamlined.
+- [Wasp](https://wasp.sh) - The Fastest Full-stack React, NodeJS, & Prisma Framework.
 
-### Boilerplate Starter Kits
+### Free Boilerplate Starter Kits
 - [BoxyHQ](https://github.com/boxyhq/saas-starter-kit) - Enterprise ready, open source, and powered by SAML Jackson.
+- [OpenSaaS](https://opensaas.sh) - open-source React + NodeJS starter w/ OpenAI, Stripe, Admin Dashboard, & more.
+
+### Paid Boilerplate Starter Kits
 - [Just Launch It](https://www.justlaunch.it/) - Sveltekit boilerplate.
 - [LaraFast](https://larafast.com) - Laravel boilerplate with ready-to-go components.
 - [LaunchFast](https://www.launchfa.st) - Astro, Next.js, and SvelteKit boilerplates for.
