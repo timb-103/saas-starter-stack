@@ -44,6 +44,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Plausible](interviews/plausible) - Website analytics by Marko Sarik and Uku doing over $100K MRR.
 - [PDFai](interviews/pdfai) - Chat with PDF tool by Damon Chen doing over $50K MRR.
 - [Publer](interviews/publer) - Social scheduling platform by Ervin Kalemi doing $170K MRR.
+- [Simple Analytics](interviews/simple-analytics) - Privacy-friendly analytics doing $30K MRR.
 
 ## Tools
 ### Code
