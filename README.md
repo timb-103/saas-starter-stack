@@ -170,6 +170,8 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 ### Authentification and User Management
 - [BoxyHQ](https://boxyhq.com) - Open source security building blocks for developers.
 - [Clerk](https://clerk.com) - The most comprehensive User Management Platform
+- [WorkOS](https://workos.com/user-management) - Hosted auth & user management - free up to 1,000,000 MAUs
+
 
 ### CRM
 - [Wobaka](https://wobaka.com) - Refreshingly simple CRM and email automation
