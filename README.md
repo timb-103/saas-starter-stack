@@ -168,6 +168,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Cal.com](https://cal.com) - Scheduling Infrastructure for Everyone.
 
 ### Authentification and User Management
+- [Simple OTP](https://simpleotp.com) - Easy passwordless (magic links, "enter a code") and passkey (WebAuthn/FIDO2) authentication for your website. Source code included.
 - [BoxyHQ](https://boxyhq.com) - Open source security building blocks for developers.
 - [Clerk](https://clerk.com) - The most comprehensive User Management Platform
 
