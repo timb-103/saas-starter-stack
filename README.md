@@ -121,6 +121,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 ### Link Shortening
 - [Dub](https://dub.co) - Open-source link management.
 - [URLR](https://urlr.me/en) - Reliable and GDPR-compliant link shortener.
+- [PlutoLinks](https://plutolinks.com) - Easily manage your shortlinks and make data-driven decisions.
 
 ### Media Processing and Content Delivery Networks
 - [Transloadit](https://transloadit.com) - Receive, transform, or deliver any file.
