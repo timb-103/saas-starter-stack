@@ -1,9 +1,9 @@
 ---
 section: Tools
-category: Email Notifications
+category: E-mail Notifications
 name: Resend
 link: https://resend.com
-description: Email for developers.
+description: E-mail for developers.
 twitter:
 creator:
 tags: []

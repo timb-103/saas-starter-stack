@@ -2,6 +2,7 @@
 > A curated list of free and affordable tools for building a SaaS.
 
 Get your SaaS up and running in no time with this list of free and affordable tools. [Contribute](#contribute).
+
 ## Table of Contents
 - [Guide](#guide)
 - [Interviews](#interviews)
@@ -24,7 +25,7 @@ Get your SaaS up and running in no time with this list of free and affordable to
     - [SMS Notifications](#sms-notifications)
     - [Push Notifications](#push-notifications)
     - [Affiliates](#affiliates)
-    - [Email Notifications](#email-notifications)
+    - [E-mail Notifications](#e-mail-notifications)
     - [Event Scheduling](#event-scheduling)
     - [Authentication and User Management](#authentication-and-user-management)
     - [CRM](#crm)
@@ -34,8 +35,8 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 ## Guide
 This guide is aimed at guiding you through the whole journey of building your own startup based on my learnings of growing my own startup Pallyy.
-- [Introduction](guide/introduction) - backstory and what you'll learn.
-- [Saving a Buffer](guide/saving-a-buffer) - backstory and what you'll learn.
+- [Introduction](guide/introduction) - Backstory and what you'll learn.
+- [Saving a Buffer](guide/saving-a-buffer) - Go all-in, or as a side project?
 
 ## Interviews
 Learn even more from reading interviews from SaaS founders with at least $500 MRR. Coming soon. To submit an interview, read the [guidelines](interviews/guidelines).
@@ -157,11 +158,11 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Rewardful](https://rewardful.com) - Set up affiliate and customer referral programs for Stripe.
 - [Tolt](https://tolt.io) - Affiliate software for Paddle, Stripe and Chargebee.
 
-### Email Notifications
-- [Mailgun](https://www.mailgun.com) - Email service providing API, SMTP.
-- [Plunk](https://www.useplunk.com) - The Email Platform for SaaS.
-- [Postmark](https://postmarkapp.com/) - Developer friendly Email Delivery Service.
-- [Resend](https://resend.com) - Email for developers.
+### E-mail Notifications
+- [Mailgun](https://www.mailgun.com) - E-mail service providing API, SMTP.
+- [Plunk](https://www.useplunk.com) - The E-mail Platform for SaaS.
+- [Postmark](https://postmarkapp.com/) - Developer friendly E-mail Delivery Service.
+- [Resend](https://resend.com) - E-mail for developers.
 
 ### Event Scheduling
 - [Cal.com](https://cal.com) - Scheduling Infrastructure for Everyone.

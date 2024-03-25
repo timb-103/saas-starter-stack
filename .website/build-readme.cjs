@@ -23,7 +23,7 @@ const sectionsFileContent = fs.readFileSync(sectionsFilePath, 'utf-8');
 const {sections, categories} = matter(sectionsFileContent).data;
 
 // Add the table of contents
-content += '## Table of Contents\n';
+content += '\n## Table of Contents\n';
 for (const section of sections) {
     content += '- [' + section.name + '](#' + sanitizeName(section.name) + ')\n';
     if (section.name === 'Tools') {

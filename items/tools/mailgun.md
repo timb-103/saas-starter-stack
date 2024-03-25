@@ -1,9 +1,9 @@
 ---
 section: Tools
-category: Email Notifications
+category: E-mail Notifications
 name: Mailgun
 link: https://www.mailgun.com
-description: Email service providing API, SMTP.
+description: E-mail service providing API, SMTP.
 twitter:
 creator:
 tags: []

@@ -1,9 +1,9 @@
 ---
 section: Tools
-category: Email Notifications
+category: E-mail Notifications
 name: Postmark
 link: https://postmarkapp.com/
-description: Developer friendly Email Delivery Service.
+description: Developer friendly E-mail Delivery Service.
 twitter:
 creator:
 tags: []

@@ -43,7 +43,7 @@ categories:
       description: Tools for sending push notifications.
     - name: Affiliates
       description: Tools for managing affiliate programs.
-    - name: Email Notifications
+    - name: E-mail Notifications
       description: Tools for sending e-mail notifications.
     - name: Event Scheduling
       description: Tools for scheduling and managing events.

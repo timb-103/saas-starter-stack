@@ -1,9 +1,9 @@
 ---
 section: Tools
-category: Email Notifications
+category: E-mail Notifications
 name: Plunk
 link: https://www.useplunk.com
-description: The Email Platform for SaaS.
+description: The E-mail Platform for SaaS.
 twitter:
 creator:
 tags: []
