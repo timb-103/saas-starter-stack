@@ -11,23 +11,23 @@ Get your SaaS up and running in no time with this list of free and affordable to
     - [Boilerplate Starter Kits](#boilerplate-starter-kits)
     - [Databases](#databases)
     - [Hosting](#hosting)
-    - [Subscriptions & Payments](#subscriptions-and-payments)
-    - [Knowledge Base & Help Center](#knowledge-base-and-help-center)
+    - [Subscriptions and Payments](#subscriptions-and-payments)
+    - [Knowledge Base and Help Center](#knowledge-base-and-help-center)
     - [Live Chat](#live-chat)
     - [Chatbots](#chatbots)
     - [Social Media Management](#social-media-management)
     - [Blogging](#blogging)
     - [Link Shortening](#link-shortening)
-    - [Media Processing & CDNs](#media-processing-and-content-delivery-networks)
+    - [Media Processing and CDNs](#media-processing-and-cdns)
     - [Website Analytics](#website-analytics)
-    - [User Feedback](#user-feedback)
     - [Website Monitoring](#website-monitoring)
+    - [User Feedback](#user-feedback)
     - [SMS Notifications](#sms-notifications)
     - [Push Notifications](#push-notifications)
     - [Affiliates](#affiliates)
-    - [E-mail Notifications](#email-notifications)
+    - [E-mail Notifications](#e-mail-notifications)
     - [Event Scheduling](#event-scheduling)
-    - [Authentification and User Management](#authentification-and-user-management)
+    - [Authentication and User Management](#authentication-and-user-management)
     - [CRM](#crm)
     - [Form Builders](#form-builders)
     - [Website Builders](#website-builders)
@@ -50,27 +50,26 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 ## Tools
 ### Code
 - [Astro](https://astro.build) - The web framework for content-driven websites.
-- [Nuxt](https://nuxt.com) - The intuitive Vue framework.
 - [Next.js](https://nextjs.org) - The React Framework for the Web
+- [Nuxt](https://nuxt.com) - The intuitive Vue framework.
 - [Remix](https://remix.run) - Focused on web standards and modern web app UX
+- [SolidJS](https://www.solidjs.com/) - JS library for building user interfaces and real-time web apps.
 - [Sveltekit](https://kit.svelte.dev/) - Web development, streamlined.
 
 ### Boilerplate Starter Kits
-- [BoxyHQ](https://github.com/boxyhq/saas-starter-kit) - Enterprise ready, open source, and powered by SAML Jackson.
+- [DevToDollars](https://devtodollars.com) - Open-source Flutter boilerplate.
+- [Ionstarter](https://ionstarter.dev/) - Ionic starter templates to launch apps.
 - [Just Launch It](https://www.justlaunch.it/) - Sveltekit boilerplate.
 - [LaraFast](https://larafast.com) - Laravel boilerplate with ready-to-go components.
 - [LaunchFast](https://www.launchfa.st) - Astro, Next.js, and SvelteKit boilerplates for.
 - [Nextless.js](https://nextlessjs.com) - Next.js Boilerplate with Auth, Multi-tenancy & Team, etc.
+- [RapidLaunch](https://rapidlaunch.it) - Nuxt.js boilerplate.
+- [React Native Boilerplate](https://reactnativeboilerplate.com) - Mobile SaaS Boilerplate to launch on iOS and Android.
 - [SaaS Pegasus](https://www.saaspegasus.com/) - The premier SaaS boilerplate for Python and Django.
 - [ShipFast](https://shipfa.st) - NextJS boilerplate.
-- [Shipped.club](https://shipped.club) - NextJS Startup Boilerplate with Chrome Extension.
-- [Ionstarter](https://ionstarter.dev/) - Ionic starter templates to launch apps.
-- [RapidLaunch](https://rapidlaunch.it) - Nuxt.js boilerplate.
-- [Supastarter](https://supastarter.dev) - Production-ready SaaS starter kit for Next.js 14 and Nuxt 3.
-- [React Native Boilerplate](https://reactnativeboilerplate.com) - Mobile SaaS Boilerplate to launch on iOS and Android.
-- [DevToDollars](https://devtodollars.com) - Open-source Flutter boilerplate.
 - [Shipixen](https://shipixen.com) - Next.js boilerplates with an MDX blog, TypeScript and Shadcn UI
-
+- [Shipped.club](https://shipped.club) - NextJS Startup Boilerplate with Chrome Extension.
+- [Supastarter](https://supastarter.dev) - Production-ready SaaS starter kit for Next.js 14 and Nuxt 3.
 
 ### Databases
 - [Appwrite](https://appwrite.io) - Open-source backend-as-a-service platform for databases.
@@ -80,22 +79,23 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Supabase](https://supabase.com) - Open Source Firebase Alternative
 
 ### Hosting
+- [Coolify](https://coolify.io/) - Open-source Vercel and Netlify alternative.
+- [DigitalOcean](https://www.digitalocean.com/) - Cloud hosting droplets for self-hosting.
+- [Hetzner](https://hetzner.com/) - Low-cost dedicated server for self-hosting.
+- [Netlify](https://netlify.com) - Connect everything. Build anything.
+- [Railway](https://railway.app) - Instant Deployments, Effortless Scale
 - [Render](https://render.com) - Build, deploy, and scale your apps.
 - [Vercel](https://vercel.com) - Build, scale, and secure a faster, personalized web.
-- [Railway](https://railway.app) - Instant Deployments, Effortless Scale
-- [Netlify](https://netlify.com) - Connect everything. Build anything.
 - [Zeabur](https://zeabur.com) - Deploy painlessly and scale infinitely.
-- [Hetzner](https://hetzner.com) - Low-cost dedicated server for self-hosting.
-- [Coolify](https://coolify.io) - Open-source Vercel and Netlify alternative.
 
 ### Subscriptions and Payments
-- [Stripe](https://stripe.com) - Financial infrastructure for the internet.
 - [Lemon Squeezy](https://lemonsqueezy.com) - Payments, tax & subscriptions.
 - [Paddle](https://www.paddle.com) - The complete payments, tax, and subscriptions solution.
+- [Stripe](https://stripe.com) - Financial infrastructure for the internet.
 
 ### Knowledge Base and Help Center
-- [HelpKit](https://www.helpkit.so) - Turn Notion into a Help Center / Documentation Site.
 - [Bliberoo](https://bliberoo.com) - Help center, internal wiki or API documetation.
+- [HelpKit](https://www.helpkit.so) - Turn Notion into a Help Center / Documentation Site.
 
 ### Live Chat
 - [Crisp](https://crisp.im) - All-in-one business messaging platform.
@@ -107,8 +107,8 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Mevo](https://usemevo.com) - Chatbot builder with AI and rule-based options.
 
 ### Social Media Management
+- [Buffer](https://buffer.com) - Grow your audience on social and beyond.
 - [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
-- [Buffer](https://buffer.com)- Grow your audience on social and beyond.
 - [StoryChief](https://storychief.io) - Content Marketing Platform for marketing teams.
 
 ### Blogging
@@ -122,9 +122,9 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Dub](https://dub.co) - Open-source link management.
 - [URLR](https://urlr.me/en) - Reliable and GDPR-compliant link shortener.
 
-### Media Processing and Content Delivery Networks
-- [Transloadit](https://transloadit.com) - Receive, transform, or deliver any file.
+### Media Processing and CDNs
 - [ImageKit](https://imagekit.io) - Real-time image and video optimizations, transformations.
+- [Transloadit](https://transloadit.com) - Receive, transform, or deliver any file.
 
 ### Website Analytics
 - [Beam](https://beamanalytics.io) - Google Analytics alternative.
@@ -158,16 +158,16 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Rewardful](https://rewardful.com) - Set up affiliate and customer referral programs for Stripe.
 - [Tolt](https://tolt.io) - Affiliate software for Paddle, Stripe and Chargebee.
 
-### Email Notifications
-- [Resend](https://resend.com) - Email for developers.
-- [Mailgun](https://www.mailgun.com) - Email service providing API, SMTP.
-- [Plunk](https://www.useplunk.com) - The Email Platform for SaaS.
-- [Postmark](https://postmarkapp.com/) - Developer friendly Email Delivery Service.
+### E-mail Notifications
+- [Mailgun](https://www.mailgun.com) - E-mail service providing API, SMTP.
+- [Plunk](https://www.useplunk.com) - The E-mail Platform for SaaS.
+- [Postmark](https://postmarkapp.com/) - Developer friendly E-mail Delivery Service.
+- [Resend](https://resend.com) - E-mail for developers.
 
 ### Event Scheduling
 - [Cal.com](https://cal.com) - Scheduling Infrastructure for Everyone.
 
-### Authentification and User Management
+### Authentication and User Management
 - [BoxyHQ](https://boxyhq.com) - Open source security building blocks for developers.
 - [Clerk](https://clerk.com) - The most comprehensive User Management Platform
 
