@@ -89,9 +89,11 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Coolify](https://coolify.io) - Open-source Vercel and Netlify alternative.
 
 ### Subscriptions and Payments
-- [Stripe](https://stripe.com) - Financial infrastructure for the internet.
 - [Lemon Squeezy](https://lemonsqueezy.com) - Payments, tax & subscriptions.
+- [Outseta](https://www.outseta.com/) - The all-in-one payments platform for SaaS companies building on Stripe.
 - [Paddle](https://www.paddle.com) - The complete payments, tax, and subscriptions solution.
+- [Stripe](https://stripe.com) - Financial infrastructure for the internet.
+  
 
 ### Knowledge Base and Help Center
 - [HelpKit](https://www.helpkit.so) - Turn Notion into a Help Center / Documentation Site.
