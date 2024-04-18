@@ -105,6 +105,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 
 ### Chatbots
 - [Mevo](https://usemevo.com) - Chatbot builder with AI and rule-based options.
+- [My AskAI](https://myaskai.com) - AI customer support chatbot with human handover to Intercom, Zendesk, etc.
 
 ### Social Media Management
 - [Pallyy](https://pallyy.com) - Scheduling platform for brands and agencies.
