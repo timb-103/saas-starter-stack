@@ -66,6 +66,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Shipped.club](https://shipped.club) - NextJS Startup Boilerplate with Chrome Extension.
 - [Ionstarter](https://ionstarter.dev/) - Ionic starter templates to launch apps.
 - [RapidLaunch](https://rapidlaunch.it) - Nuxt.js boilerplate.
+- [Rapidstackin](https://rapidstack.in) - SaaS boilerplate. SaaS starter kit for Nuxt 3, Supabase, Stripe and more.
 - [Supastarter](https://supastarter.dev) - Production-ready SaaS starter kit for Next.js 14 and Nuxt 3.
 - [React Native Boilerplate](https://reactnativeboilerplate.com) - Mobile SaaS Boilerplate to launch on iOS and Android.
 - [DevToDollars](https://devtodollars.com) - Open-source Flutter boilerplate.
