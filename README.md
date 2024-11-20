@@ -64,6 +64,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [SaaS Pegasus](https://www.saaspegasus.com/) - The premier SaaS boilerplate for Python and Django.
 - [ShipFast](https://shipfa.st) - NextJS boilerplate.
 - [Shipped.club](https://shipped.club) - NextJS Startup Boilerplate with Chrome Extension.
+- [StartupBolt](https://www.startupbolt.com/) - NextJS Boilerplate with Lemon Squeezy and Stripe integration.
 - [Ionstarter](https://ionstarter.dev/) - Ionic starter templates to launch apps.
 - [RapidLaunch](https://rapidlaunch.it) - Nuxt.js boilerplate.
 - [Supastarter](https://supastarter.dev) - Production-ready SaaS starter kit for Next.js 14 and Nuxt 3.
