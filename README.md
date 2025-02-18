@@ -129,6 +129,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 ### Website Analytics
 - [Beam](https://beamanalytics.io) - Google Analytics alternative.
 - [Fathom](https://usefathom.com) - Excellent Google Analytics Alternative
+- [Linito](https://www.linito.io) - A better interface for Google Analytics.
 - [Penkle](https://penkle.com) - EU Based privacy focused analytics.
 - [Pirsch](https://pirsch.io) - Cookie-free and Privacy-friendly Web Analytics.
 - [Plausible](https://plausible.io) - Privacy first analytics.
