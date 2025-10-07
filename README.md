@@ -70,6 +70,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [React Native Boilerplate](https://reactnativeboilerplate.com) - Mobile SaaS Boilerplate to launch on iOS and Android.
 - [DevToDollars](https://devtodollars.com) - Open-source Flutter boilerplate.
 - [Shipixen](https://shipixen.com) - Next.js boilerplates with an MDX blog, TypeScript and Shadcn UI
+- [MkSaaS](https://mksaas.com) - Next.js boilerplate with AI, auth, payments, i18n, newsletter, dashboard, blog, docs, blocks, themes, SEO and more.
 
 
 ### Databases
